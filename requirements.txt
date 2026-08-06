@@ -1,0 +1,9 @@
+# ─────────────────────────────────────────────────────────────────
+# Required for core functionality (content-based recommender)
+# ─────────────────────────────────────────────────────────────────
+# Note: the core recommender is dependency-free (pure Python TF-IDF + cosine similarity).
+# Install the packages below ONLY if you want LLM-powered rationale generation.
+# ─────────────────────────────────────────────────────────────────
+
+# LLM rationale (optional but recommended for full demo experience)
+openai>=1.30.0

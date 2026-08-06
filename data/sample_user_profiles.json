@@ -1,0 +1,73 @@
+{
+  "profiles": [
+    {
+      "id": "U001",
+      "name": "Alex — Aspiring Software Developer (Student)",
+      "background": "3rd year BCA student. Currently learning Python, web development (React + Node.js), and data structures. Lives in a shared apartment with a budget-conscious mindset.",
+      "goals": "Build a solid home setup for coding and remote internships. Save money on daily purchases. Learn data science basics on the side.",
+      "known_skills": ["Python basics", "HTML/CSS", "JavaScript basics", "MySQL basics"],
+      "interests": ["coding", "open-source", "hackathons", "indie games", "mechanical keyboards", "coffee"],
+      "usage_context": "Primary use: 6-8 hours daily coding, virtual meetings, and streaming tutorials. Occasional light gaming on weekends.",
+      "preferences": {
+        "preferred_categories": ["Electronics", "Books", "Sports & Outdoors"],
+        "preferred_brands": ["TechNova", "KeyCraft", "Lumina", "PureRadiance"],
+        "price_range": {"min": 20, "max": 600},
+        "must_have_features": ["8GB RAM", "USB-C", "Rechargeable"],
+        "avoid_tags": ["premium", "flagship", "high-end"]
+      },
+      "keywords": ["laptop budget", "mechanical keyboard", "programming books", "desk setup", "coding"]
+    },
+    {
+      "id": "U002",
+      "name": "Priya — Fitness & Outdoor Enthusiast",
+      "background": "Marketing professional with 3 years experience. Active gym-goer 5 days a week, enjoys weekend treks and adventure travel.",
+      "goals": "Build a compact home gym for morning workouts. Prepare gear for a Himalayan trek next quarter. Prioritize recovery and wellness.",
+      "known_skills": ["Strength training", "Hiking", "Yoga beginner", "Meal prepping"],
+      "interests": ["fitness", "hiking", "camping", "yoga", "meal-prep", "wellness", "outdoor photography"],
+      "usage_context": "Home workouts before work, 2-3 hour treks on weekends, occasional overnight camping trips.",
+      "preferences": {
+        "preferred_categories": ["Sports & Outdoors", "Health", "Home & Kitchen"],
+        "preferred_brands": ["StrideMax", "IronForge", "ZenFlow", "PeakGear", "FitMetrics"],
+        "price_range": {"min": 25, "max": 400},
+        "must_have_features": ["Durable", "Water Resistant", "Portable"],
+        "avoid_tags": ["luxury", "high-end", "decorative"]
+      },
+      "purchase_history": ["P006", "P017"],
+      "keywords": ["home gym", "hiking gear", "dumbbells", "backpack 50L", "resistance bands", "scale body"]
+    },
+    {
+      "id": "U003",
+      "name": "Raj — Home Cook & Aspiring Home Chef",
+      "background": "Working professional recently moved into a new apartment. Loves hosting weekend dinner parties and experimenting with cuisines.",
+      "goals": "Set up a functional kitchen with quality tools. Upgrade coffee and baking setup. Organize meals and reduce food waste.",
+      "known_skills": ["Home cooking", "Baking basics", "Italian cuisine", "Indian cuisine"],
+      "interests": ["cooking", "baking", "sous vide", "specialty coffee", "meal-prep", "hosting", "kitchen organization"],
+      "usage_context": "Cooks dinner 5 nights a week, bakes on Sundays, uses coffee machine twice daily.",
+      "preferences": {
+        "preferred_categories": ["Home & Kitchen"],
+        "preferred_brands": ["KitchenArtisan", "Caffino", "EcoHome", "GourmetPro"],
+        "price_range": {"min": 30, "max": 500},
+        "must_have_features": ["Dishwasher Safe", "Stainless Steel", "Durable"],
+        "avoid_tags": ["disposable", "cheap", "low-quality"]
+      },
+      "keywords": ["knife set chef", "espresso machine", "sous vide", "storage glass", "mixing stand", "cold brew"]
+    },
+    {
+      "id": "U004",
+      "name": "Meera — Mindfulness & Remote Working Professional",
+      "background": "UX designer working fully remotely. Sensitive to screen fatigue and stress. Values slow living, mental health, and sustainable living.",
+      "goals": "Create a calming, ergonomic home office. Prioritize skincare and sleep quality. Build eco-friendly habits.",
+      "known_skills": ["Figma", "Design thinking", "Meditation", "Journaling"],
+      "interests": ["minimalism", "aromatherapy", "yoga", "skincare", "sustainable living", "journaling", "sleep optimization"],
+      "usage_context": "8 hours/day at a desk, evening skincare routine, weekend yoga and reading.",
+      "preferences": {
+        "preferred_categories": ["Beauty", "Home & Kitchen", "Books", "Apparel"],
+        "preferred_brands": ["PureRadiance", "ZenSpace", "EcoHome", "SleepHeaven", "ComfortFirst"],
+        "price_range": {"min": 15, "max": 350},
+        "must_have_features": ["Cruelty-Free", "Vegan", "Eco-Friendly"],
+        "avoid_tags": ["gaming", "rugged", "disposable"]
+      },
+      "keywords": ["diffuser essential oil", "skincare vitamin c", "memory foam pillow", "sunscreen mineral", "blue light glasses", "minimalism book"]
+    }
+  ]
+}

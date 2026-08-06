@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Output files (optional)
+output/
+
+# VS Code / Trae settings (optional)
+.vscode/
+.idea/
