@@ -9,6 +9,7 @@
 ## Contents
 
 - [One-line description](#one-line-description)
+- [Tools and Technologies](#tools-and-technologies)
 - [Quick start (5 minutes)](#quick-start-5-minutes)
   - [1. Install](#1-install)
   - [2. Configure an LLM API key (optional, recommended)](#2-configure-an-llm-api-key-optional-recommended)
@@ -27,6 +28,7 @@
 - [Design choices — why this stack](#design-choices--why-this-stack)
 - [Tradeoffs, limitations, and what I'd improve with more time](#tradeoffs-limitations-and-what-id-improve-with-more-time)
 - [Project structure](#project-structure)
+- [Output images](#output-images)
 
 ---
 
@@ -43,6 +45,13 @@
 > **Output:** Ranked list (configurable top-N, default 8), each with a score bar, a 3-component breakdown (content-similarity % | attribute-match % | rating-boost +/-%), a 2-4 sentence rationale, key-match bullet points, and flagged tradeoffs/concerns. Full results are written as machine-readable JSON to `output/`.
 
 ---
+
+## Tools and Technologies
+- Python
+- Groq API
+- JSON
+- VS Code
+- Git, GitHub and Version control
 
 ## Quick start (5 minutes)
 
@@ -345,3 +354,15 @@ Product Recommendation Agent/
     ├── recs_u004_YYYYMMDD_HHMMSS.json
     └── demo_summary.json
 ```
+<img width="395" height="761" alt="Screenshot 2026-08-07 001051" src="https://github.com/user-attachments/assets/83ed6858-cf50-4a04-a800-9cb2e5824818" />
+<img width="398" height="120" alt="Screenshot 2026-08-07 001100" src="https://github.com/user-attachments/assets/a05f72f2-429b-4a00-93dc-96ec9517cd22" />
+
+## Output Images
+<img width="1577" height="520" alt="Screenshot 2026-08-07 001356" src="https://github.com/user-attachments/assets/c55ec656-fc2e-478c-ad8f-b7f91e79fd89" />
+<img width="1475" height="912" alt="Screenshot 2026-08-07 001517" src="https://github.com/user-attachments/assets/26ba72e0-34ac-41fc-960c-282890852426" />
+<img width="1526" height="950" alt="Screenshot 2026-08-07 001529" src="https://github.com/user-attachments/assets/4d6ca307-c2f7-43ca-bb83-ae77ca8d80d5" />
+<img width="1527" height="947" alt="Screenshot 2026-08-07 001544" src="https://github.com/user-attachments/assets/195cf7d7-fbaa-44bc-aa0a-41fc62984f85" />
+<img width="1513" height="442" alt="Screenshot 2026-08-07 001620" src="https://github.com/user-attachments/assets/a31d8dcd-ef5e-4a0a-afec-701288d05f8e" />
+<img width="1428" height="943" alt="Screenshot 2026-08-07 002332" src="https://github.com/user-attachments/assets/f2aaf2cd-83e3-478a-bc0e-5e3058983335" />
+<img width="1433" height="950" alt="Screenshot 2026-08-07 002343" src="https://github.com/user-attachments/assets/416ee89e-9622-448b-a8e1-0fb26055c451" />
+<img width="1422" height="785" alt="Screenshot 2026-08-07 002355" src="https://github.com/user-attachments/assets/efd4c4d2-be45-4823-a7fc-b1e4162c3beb" />
