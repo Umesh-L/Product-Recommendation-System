@@ -1,0 +1,209 @@
+{
+  "generated_at": "2026-08-06T17:41:57.201461Z",
+  "user_profile": {
+    "id": "U001",
+    "name": "Alex — Aspiring Software Developer (Student)",
+    "background": "3rd year BCA student. Currently learning Python, web development (React + Node.js), and data structures. Lives in a shared apartment with a budget-conscious mindset.",
+    "goals": "Build a solid home setup for coding and remote internships. Save money on daily purchases. Learn data science basics on the side.",
+    "known_skills": [
+      "Python basics",
+      "HTML/CSS",
+      "JavaScript basics",
+      "MySQL basics"
+    ],
+    "interests": [
+      "coding",
+      "open-source",
+      "hackathons",
+      "indie games",
+      "mechanical keyboards",
+      "coffee"
+    ],
+    "usage_context": "Primary use: 6-8 hours daily coding, virtual meetings, and streaming tutorials. Occasional light gaming on weekends.",
+    "preferences": {
+      "preferred_categories": [
+        "Electronics",
+        "Books",
+        "Sports & Outdoors"
+      ],
+      "preferred_brands": [
+        "TechNova",
+        "KeyCraft",
+        "Lumina",
+        "PureRadiance"
+      ],
+      "price_range": {
+        "min": 20,
+        "max": 600
+      },
+      "must_have_features": [
+        "8GB RAM",
+        "USB-C",
+        "Rechargeable"
+      ],
+      "avoid_tags": [
+        "premium",
+        "flagship",
+        "high-end"
+      ]
+    },
+    "keywords": [
+      "laptop budget",
+      "mechanical keyboard",
+      "programming books",
+      "desk setup",
+      "coding"
+    ]
+  },
+  "cold_start": true,
+  "llm_rationale_enabled": true,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P050",
+        "name": "CodeMaster Coding Mouse for Kids",
+        "category": "Electronics",
+        "subcategory": "Toys & Learning",
+        "price": 59.99,
+        "brand": "LearnTech",
+        "rating": 4.6,
+        "review_count": 2345,
+        "description": "Screen-free coding mouse for ages 4+. Teaches sequencing, problem-solving, and basic programming concepts.",
+        "features": [
+          "Screen-Free Coding",
+          "Ages 4+",
+          "Color-Coded Buttons",
+          "30-Piece Activity Set",
+          "STEM Certified",
+          "2-Player Mode",
+          "Award-Winning"
+        ],
+        "tags": [
+          "kids",
+          "learning",
+          "stem",
+          "coding",
+          "educational",
+          "toy",
+          "programming",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3803,
+        "content_similarity": 0.291,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0309
+      },
+      "rationale": {
+        "rationale": "CodeMaster Coding Mouse for Kids ($59.99) matches with an overall score of 38%. Content similarity is 29% and attribute alignment is 58%. Key features: Screen-Free Coding; Ages 4+; Color-Coded Buttons. Rated 4.6/5 from 2345 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Toys & Learning",
+          "Tag match: kids, learning",
+          "Feature highlight: Screen-Free Coding"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P002",
+        "name": "SwiftGo 14\" Budget Laptop",
+        "category": "Electronics",
+        "subcategory": "Laptops",
+        "price": 499.99,
+        "brand": "CompuWave",
+        "rating": 3.9,
+        "review_count": 1523,
+        "description": "Affordable everyday laptop for students and casual users. Intel i3, 8GB RAM, 256GB SSD, USB-C charging.",
+        "features": [
+          "14-inch HD Display",
+          "Intel Core i3",
+          "8GB RAM",
+          "256GB SSD",
+          "7hr Battery",
+          "Webcam",
+          "HDMI Port",
+          "USB-C Charging"
+        ],
+        "tags": [
+          "budget",
+          "student",
+          "everyday",
+          "casual",
+          "affordable",
+          "school",
+          "homework",
+          "coding",
+          "developer"
+        ]
+      },
+      "scores": {
+        "overall": 0.3476,
+        "content_similarity": 0.141,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0106
+      },
+      "rationale": {
+        "rationale": "SwiftGo 14\" Budget Laptop ($499.99) matches with an overall score of 35%. Content similarity is 14% and attribute alignment is 75%. Key features: 14-inch HD Display; Intel Core i3; 8GB RAM. Rated 3.9/5 from 1523 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Laptops",
+          "Tag match: budget, student",
+          "Feature highlight: 14-inch HD Display"
+        ],
+        "potential_concerns": [
+          "Rating is 3.9/5, slightly below the top tier"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P014",
+        "name": "Python for Data Science Handbook",
+        "category": "Books",
+        "subcategory": "Technology",
+        "price": 44.99,
+        "brand": "TechPress",
+        "rating": 4.8,
+        "review_count": 987,
+        "description": "Comprehensive guide to Python libraries for data analysis: NumPy, Pandas, Matplotlib, and Scikit-learn.",
+        "features": [
+          "528 Pages",
+          "Code Examples",
+          "Hands-on Exercises",
+          "Full Color Print",
+          "PDF Companion",
+          "GitHub Repository"
+        ],
+        "tags": [
+          "programming",
+          "data-science",
+          "python",
+          "learning",
+          "technical",
+          "career",
+          "analytics",
+          "coding"
+        ]
+      },
+      "scores": {
+        "overall": 0.324,
+        "content_similarity": 0.1971,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "Python for Data Science Handbook ($44.99) matches with an overall score of 32%. Content similarity is 20% and attribute alignment is 58%. Key features: 528 Pages; Code Examples; Hands-on Exercises. Rated 4.8/5 from 987 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Books > Technology",
+          "Tag match: programming, data-science",
+          "Feature highlight: 528 Pages"
+        ],
+        "potential_concerns": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "generated_at": "2026-08-06T17:37:22.521688Z",
+  "user_profile": {
+    "id": "U004",
+    "name": "Meera — Mindfulness & Remote Working Professional",
+    "background": "UX designer working fully remotely. Sensitive to screen fatigue and stress. Values slow living, mental health, and sustainable living.",
+    "goals": "Create a calming, ergonomic home office. Prioritize skincare and sleep quality. Build eco-friendly habits.",
+    "known_skills": [
+      "Figma",
+      "Design thinking",
+      "Meditation",
+      "Journaling"
+    ],
+    "interests": [
+      "minimalism",
+      "aromatherapy",
+      "yoga",
+      "skincare",
+      "sustainable living",
+      "journaling",
+      "sleep optimization"
+    ],
+    "usage_context": "8 hours/day at a desk, evening skincare routine, weekend yoga and reading.",
+    "preferences": {
+      "preferred_categories": [
+        "Beauty",
+        "Home & Kitchen",
+        "Books",
+        "Apparel"
+      ],
+      "preferred_brands": [
+        "PureRadiance",
+        "ZenSpace",
+        "EcoHome",
+        "SleepHeaven",
+        "ComfortFirst"
+      ],
+      "price_range": {
+        "min": 15,
+        "max": 350
+      },
+      "must_have_features": [
+        "Cruelty-Free",
+        "Vegan",
+        "Eco-Friendly"
+      ],
+      "avoid_tags": [
+        "gaming",
+        "rugged",
+        "disposable"
+      ]
+    },
+    "keywords": [
+      "diffuser essential oil",
+      "skincare vitamin c",
+      "memory foam pillow",
+      "sunscreen mineral",
+      "blue light glasses",
+      "minimalism book"
+    ]
+  },
+  "cold_start": true,
+  "llm_rationale_enabled": false,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P019",
+        "name": "VelvetGlow Hydrating Serum",
+        "category": "Beauty",
+        "subcategory": "Skincare",
+        "price": 45.99,
+        "brand": "PureRadiance",
+        "rating": 4.4,
+        "review_count": 3892,
+        "description": "Vitamin C + Hyaluronic Acid serum for brightening and deep hydration. Suitable for all skin types.",
+        "features": [
+          "Vitamin C + Hyaluronic Acid",
+          "30ml Bottle",
+          "Paraben-Free",
+          "Cruelty-Free",
+          "All Skin Types",
+          "Fragrance-Free",
+          "Fast Absorbing"
+        ],
+        "tags": [
+          "skincare",
+          "beauty",
+          "anti-aging",
+          "hydration",
+          "brightening",
+          "vitamin-c",
+          "vegan",
+          "self-care"
+        ]
+      },
+      "scores": {
+        "overall": 0.4146,
+        "content_similarity": 0.154,
+        "attribute_match": 0.9167,
+        "rating_boost": 0.0269
+      },
+      "rationale": {
+        "rationale": "VelvetGlow Hydrating Serum ($45.99) matches with an overall score of 41%. Content similarity is 15% and attribute alignment is 92%. Key features: Vitamin C + Hyaluronic Acid; 30ml Bottle; Paraben-Free. Rated 4.4/5 from 3892 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Beauty > Skincare",
+          "Tag match: skincare, beauty",
+          "Feature highlight: Vitamin C + Hyaluronic Acid"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P033",
+        "name": "DeepCleansing Charcoal Face Wash",
+        "category": "Beauty",
+        "subcategory": "Skincare",
+        "price": 18.99,
+        "brand": "PureRadiance",
+        "rating": 4.3,
+        "review_count": 4521,
+        "description": "Activated charcoal daily cleanser that draws out impurities and controls oil. Sulfate-free.",
+        "features": [
+          "Activated Charcoal",
+          "150ml Tube",
+          "Sulfate-Free",
+          "Paraben-Free",
+          "Oil Control",
+          "Non-Drying",
+          "Vegan & Cruelty-Free"
+        ],
+        "tags": [
+          "skincare",
+          "cleanser",
+          "acne",
+          "oil-control",
+          "charcoal",
+          "vegan",
+          "daily",
+          "beauty"
+        ]
+      },
+      "scores": {
+        "overall": 0.4036,
+        "content_similarity": 0.136,
+        "attribute_match": 0.9167,
+        "rating_boost": 0.0244
+      },
+      "rationale": {
+        "rationale": "DeepCleansing Charcoal Face Wash ($18.99) matches with an overall score of 40%. Content similarity is 14% and attribute alignment is 92%. Key features: Activated Charcoal; 150ml Tube; Sulfate-Free. Rated 4.3/5 from 4521 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Beauty > Skincare",
+          "Tag match: skincare, cleanser",
+          "Feature highlight: Activated Charcoal"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P046",
+        "name": "Cucumber & Aloe Sheet Masks (10-pack)",
+        "category": "Beauty",
+        "subcategory": "Skincare",
+        "price": 22.99,
+        "brand": "PureRadiance",
+        "rating": 4.4,
+        "review_count": 7654,
+        "description": "Hydrating and soothing sheet masks with cucumber extract and aloe vera. Calms irritated skin.",
+        "features": [
+          "10 Individually Wrapped Masks",
+          "Cucumber + Aloe Vera Extract",
+          "Hydrating Serum",
+          "Calms Redness",
+          "Vegan & Cruelty-Free",
+          "Paraben-Free"
+        ],
+        "tags": [
+          "skincare",
+          "face-mask",
+          "hydration",
+          "calming",
+          "vegan",
+          "self-care",
+          "beauty",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3888,
+        "content_similarity": 0.1108,
+        "attribute_match": 0.9167,
+        "rating_boost": 0.0291
+      },
+      "rationale": {
+        "rationale": "Cucumber & Aloe Sheet Masks (10-pack) ($22.99) matches with an overall score of 39%. Content similarity is 11% and attribute alignment is 92%. Key features: 10 Individually Wrapped Masks; Cucumber + Aloe Vera Extract; Hydrating Serum. Rated 4.4/5 from 7654 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Beauty > Skincare",
+          "Tag match: skincare, face-mask",
+          "Feature highlight: 10 Individually Wrapped Masks"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P031",
+        "name": "CozyCloud Memory Foam Pillow",
+        "category": "Home & Kitchen",
+        "subcategory": "Bedding",
+        "price": 79.99,
+        "brand": "SleepHeaven",
+        "rating": 4.6,
+        "review_count": 9012,
+        "description": "Premium adjustable memory foam pillow with cooling gel. Orthopedic support for neck pain.",
+        "features": [
+          "Adjustable Fill Memory Foam",
+          "Cooling Gel Infusion",
+          "Orthopedic Support",
+          "Breathable Bamboo Cover",
+          "Machine Washable Cover",
+          "Dust Mite Resistant"
+        ],
+        "tags": [
+          "sleep",
+          "comfort",
+          "bedding",
+          "wellness",
+          "health",
+          "neck-support",
+          "cooling",
+          "home"
+        ]
+      },
+      "scores": {
+        "overall": 0.3622,
+        "content_similarity": 0.1631,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0363
+      },
+      "rationale": {
+        "rationale": "CozyCloud Memory Foam Pillow ($79.99) matches with an overall score of 36%. Content similarity is 16% and attribute alignment is 75%. Key features: Adjustable Fill Memory Foam; Cooling Gel Infusion; Orthopedic Support. Rated 4.6/5 from 9012 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Bedding",
+          "Tag match: sleep, comfort",
+          "Feature highlight: Adjustable Fill Memory Foam"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 5,
+      "product": {
+        "id": "P013",
+        "name": "AromaDiffuse Essential Oil Diffuser",
+        "category": "Home & Kitchen",
+        "subcategory": "Home Decor",
+        "price": 49.99,
+        "brand": "ZenSpace",
+        "rating": 4.3,
+        "review_count": 4721,
+        "description": "500ml ultrasonic essential oil diffuser with 7-color LED lights and auto-shutoff.",
+        "features": [
+          "500ml Capacity",
+          "Ultrasonic Technology",
+          "7-Color LED Lights",
+          "Auto Shut-off",
+          "4 Timer Settings",
+          "Quiet Operation",
+          "Remote Control"
+        ],
+        "tags": [
+          "aromatherapy",
+          "wellness",
+          "home",
+          "relaxation",
+          "zen",
+          "decor",
+          "mood",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3548,
+        "content_similarity": 0.1517,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0245
+      },
+      "rationale": {
+        "rationale": "AromaDiffuse Essential Oil Diffuser ($49.99) matches with an overall score of 35%. Content similarity is 15% and attribute alignment is 75%. Key features: 500ml Capacity; Ultrasonic Technology; 7-Color LED Lights. Rated 4.3/5 from 4721 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Home Decor",
+          "Tag match: aromatherapy, wellness",
+          "Feature highlight: 500ml Capacity"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 6,
+      "product": {
+        "id": "P020",
+        "name": "MineralShield SPF 50+ Sunscreen",
+        "category": "Beauty",
+        "subcategory": "Skincare",
+        "price": 29.99,
+        "brand": "SunGuard",
+        "rating": 4.7,
+        "review_count": 6721,
+        "description": "Reef-safe mineral sunscreen with SPF 50+. Non-greasy, no white cast, water resistant.",
+        "features": [
+          "SPF 50+ UVA/UVB Protection",
+          "Zinc Oxide Mineral Filter",
+          "Reef-Safe Formula",
+          "Water Resistant 80min",
+          "Non-Greasy",
+          "No White Cast",
+          "Hypoallergenic"
+        ],
+        "tags": [
+          "skincare",
+          "sunscreen",
+          "protection",
+          "summer",
+          "beach",
+          "sensitive-skin",
+          "eco-friendly",
+          "health"
+        ]
+      },
+      "scores": {
+        "overall": 0.3542,
+        "content_similarity": 0.1982,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0383
+      },
+      "rationale": {
+        "rationale": "MineralShield SPF 50+ Sunscreen ($29.99) matches with an overall score of 35%. Content similarity is 20% and attribute alignment is 67%. Key features: SPF 50+ UVA/UVB Protection; Zinc Oxide Mineral Filter; Reef-Safe Formula. Rated 4.7/5 from 6721 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Beauty > Skincare",
+          "Tag match: skincare, sunscreen",
+          "Feature highlight: SPF 50+ UVA/UVB Protection"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 7,
+      "product": {
+        "id": "P044",
+        "name": "BambooCut Reusable Utensil Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Dining",
+        "price": 24.99,
+        "brand": "EcoHome",
+        "rating": 4.6,
+        "review_count": 9876,
+        "description": "Premium bamboo reusable utensil set with chopsticks, straw, and neoprene case. Zero-waste kit.",
+        "features": [
+          "Fork, Knife, Spoon, Chopsticks, Straw",
+          "Cleaning Brush Included",
+          "100% Natural Bamboo",
+          "Neoprene Travel Case",
+          "Lightweight 3.5oz",
+          "Dishwasher Safe"
+        ],
+        "tags": [
+          "eco-friendly",
+          "reusable",
+          "zero-waste",
+          "travel",
+          "sustainable",
+          "dining",
+          "outdoor",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3177,
+        "content_similarity": 0.0403,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0366
+      },
+      "rationale": {
+        "rationale": "BambooCut Reusable Utensil Set ($24.99) matches with an overall score of 32%. Content similarity is 4% and attribute alignment is 83%. Key features: Fork, Knife, Spoon, Chopsticks, Straw; Cleaning Brush Included; 100% Natural Bamboo. Rated 4.6/5 from 9876 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Dining",
+          "Tag match: eco-friendly, reusable",
+          "Feature highlight: Fork, Knife, Spoon, Chopsticks, Straw"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 8,
+      "product": {
+        "id": "P042",
+        "name": "SleepSound White Noise Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Wellness",
+        "price": 44.99,
+        "brand": "ZenSpace",
+        "rating": 4.4,
+        "review_count": 6789,
+        "description": "30 soothing sounds white noise machine with night light, timer, and memory function.",
+        "features": [
+          "30 Soothing Sounds",
+          "7-Color Night Light",
+          "Auto Timer (30/60/90min)",
+          "Memory Function",
+          "USB Charging Port",
+          "Portable Size"
+        ],
+        "tags": [
+          "sleep",
+          "wellness",
+          "white-noise",
+          "baby",
+          "relaxation",
+          "travel",
+          "insomnia",
+          "bedroom"
+        ]
+      },
+      "scores": {
+        "overall": 0.317,
+        "content_similarity": 0.0885,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0287
+      },
+      "rationale": {
+        "rationale": "SleepSound White Noise Machine ($44.99) matches with an overall score of 32%. Content similarity is 9% and attribute alignment is 75%. Key features: 30 Soothing Sounds; 7-Color Night Light; Auto Timer (30/60/90min). Rated 4.4/5 from 6789 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Wellness",
+          "Tag match: sleep, wellness",
+          "Feature highlight: 30 Soothing Sounds"
+        ],
+        "potential_concerns": []
+      }
+    }
+  ]
+}

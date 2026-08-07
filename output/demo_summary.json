@@ -1,0 +1,30 @@
+{
+  "U001": {
+    "user_name": "Alex \u2014 Aspiring Software Developer (Student)",
+    "top_match": {
+      "name": "CodeMaster Coding Mouse for Kids",
+      "score": 0.3803
+    }
+  },
+  "U002": {
+    "user_name": "Priya \u2014 Fitness & Outdoor Enthusiast",
+    "top_match": {
+      "name": "TrailEndure Hiking Backpack 55L",
+      "score": 0.4177
+    }
+  },
+  "U003": {
+    "user_name": "Raj \u2014 Home Cook & Aspiring Home Chef",
+    "top_match": {
+      "name": "FreshBrew Cold Brew Coffee Maker",
+      "score": 0.4715
+    }
+  },
+  "U004": {
+    "user_name": "Meera \u2014 Mindfulness & Remote Working Professional",
+    "top_match": {
+      "name": "VelvetGlow Hydrating Serum",
+      "score": 0.4146
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "generated_at": "2026-08-06T17:37:22.511282Z",
+  "user_profile": {
+    "id": "U002",
+    "name": "Priya — Fitness & Outdoor Enthusiast",
+    "background": "Marketing professional with 3 years experience. Active gym-goer 5 days a week, enjoys weekend treks and adventure travel.",
+    "goals": "Build a compact home gym for morning workouts. Prepare gear for a Himalayan trek next quarter. Prioritize recovery and wellness.",
+    "known_skills": [
+      "Strength training",
+      "Hiking",
+      "Yoga beginner",
+      "Meal prepping"
+    ],
+    "interests": [
+      "fitness",
+      "hiking",
+      "camping",
+      "yoga",
+      "meal-prep",
+      "wellness",
+      "outdoor photography"
+    ],
+    "usage_context": "Home workouts before work, 2-3 hour treks on weekends, occasional overnight camping trips.",
+    "preferences": {
+      "preferred_categories": [
+        "Sports & Outdoors",
+        "Health",
+        "Home & Kitchen"
+      ],
+      "preferred_brands": [
+        "StrideMax",
+        "IronForge",
+        "ZenFlow",
+        "PeakGear",
+        "FitMetrics"
+      ],
+      "price_range": {
+        "min": 25,
+        "max": 400
+      },
+      "must_have_features": [
+        "Durable",
+        "Water Resistant",
+        "Portable"
+      ],
+      "avoid_tags": [
+        "luxury",
+        "high-end",
+        "decorative"
+      ]
+    },
+    "purchase_history": [
+      "P006",
+      "P017"
+    ],
+    "keywords": [
+      "home gym",
+      "hiking gear",
+      "dumbbells",
+      "backpack 50L",
+      "resistance bands",
+      "scale body"
+    ]
+  },
+  "cold_start": false,
+  "llm_rationale_enabled": false,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P016",
+        "name": "TrailEndure Hiking Backpack 55L",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 129.99,
+        "brand": "PeakGear",
+        "rating": 4.7,
+        "review_count": 2145,
+        "description": "55-liter hiking backpack with adjustable suspension, rain cover, and multiple compartments.",
+        "features": [
+          "55L Capacity",
+          "Adjustable Suspension",
+          "Rain Cover Included",
+          "Hydration Bladder Pocket",
+          "Multiple Pockets",
+          "Hip Belt Pockets",
+          "Durable Nylon"
+        ],
+        "tags": [
+          "hiking",
+          "backpacking",
+          "camping",
+          "outdoor",
+          "adventure",
+          "trekking",
+          "travel",
+          "durable"
+        ]
+      },
+      "scores": {
+        "overall": 0.4177,
+        "content_similarity": 0.2095,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0333
+      },
+      "rationale": {
+        "rationale": "TrailEndure Hiking Backpack 55L ($129.99) matches with an overall score of 42%. Content similarity is 21% and attribute alignment is 83%. Key features: 55L Capacity; Adjustable Suspension; Rain Cover Included. Rated 4.7/5 from 2145 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Sports & Outdoors > Camping",
+          "Tag match: hiking, backpacking",
+          "Feature highlight: 55L Capacity"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P030",
+        "name": "FireFly LED Camping Lantern (2-pack)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 34.99,
+        "brand": "PeakGear",
+        "rating": 4.5,
+        "review_count": 5678,
+        "description": "2-pack of rechargeable LED camping lanterns. 500lm brightness, 4 modes, IP65 waterproof.",
+        "features": [
+          "2-Pack Included",
+          "500 Lumens Brightness",
+          "4 Light Modes",
+          "Rechargeable 4000mAh",
+          "IP65 Waterproof",
+          "Power Bank Function",
+          "Magnetic Base"
+        ],
+        "tags": [
+          "camping",
+          "outdoor",
+          "lighting",
+          "emergency",
+          "hiking",
+          "rechargeable",
+          "durable",
+          "backpacking"
+        ]
+      },
+      "scores": {
+        "overall": 0.3767,
+        "content_similarity": 0.141,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0313
+      },
+      "rationale": {
+        "rationale": "FireFly LED Camping Lantern (2-pack) ($34.99) matches with an overall score of 38%. Content similarity is 14% and attribute alignment is 83%. Key features: 2-Pack Included; 500 Lumens Brightness; 4 Light Modes. Rated 4.5/5 from 5678 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Sports & Outdoors > Camping",
+          "Tag match: camping, outdoor",
+          "Feature highlight: 2-Pack Included"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P048",
+        "name": "GripMaster Resistance Bands (5 levels)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Fitness",
+        "price": 24.99,
+        "brand": "IronForge",
+        "rating": 4.5,
+        "review_count": 8901,
+        "description": "5-level resistance band set with door anchor, ankle straps, and carry bag. Full-body workouts.",
+        "features": [
+          "5 Bands (X-Light to X-Heavy)",
+          "Door Anchor Included",
+          "Ankle Straps x2",
+          "Carry Bag",
+          "Workout Guide",
+          "Natural Latex",
+          "Up to 150lbs"
+        ],
+        "tags": [
+          "fitness",
+          "home-gym",
+          "resistance-training",
+          "strength",
+          "exercise",
+          "portable",
+          "physical-therapy",
+          "beginner"
+        ]
+      },
+      "scores": {
+        "overall": 0.3504,
+        "content_similarity": 0.155,
+        "attribute_match": 0.7502,
+        "rating_boost": 0.0329
+      },
+      "rationale": {
+        "rationale": "GripMaster Resistance Bands (5 levels) ($24.99) matches with an overall score of 35%. Content similarity is 16% and attribute alignment is 75%. Key features: 5 Bands (X-Light to X-Heavy); Door Anchor Included; Ankle Straps x2. Rated 4.5/5 from 8901 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Sports & Outdoors > Fitness",
+          "Tag match: fitness, home-gym",
+          "Feature highlight: 5 Bands (X-Light to X-Heavy)"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P027",
+        "name": "SmartScale Body Composition Analyzer",
+        "category": "Health",
+        "subcategory": "Monitors",
+        "price": 69.99,
+        "brand": "FitMetrics",
+        "rating": 4.5,
+        "review_count": 7821,
+        "description": "Wi-Fi/Bluetooth smart scale that measures weight, BMI, body fat, muscle mass, and more 13 metrics.",
+        "features": [
+          "13 Body Metrics",
+          "Wi-Fi + Bluetooth",
+          "Unlimited User Profiles",
+          "App Sync (iOS/Android)",
+          "Baby Mode",
+          "Athlete Mode",
+          "Sleek Glass Design"
+        ],
+        "tags": [
+          "health",
+          "fitness",
+          "weight-tracking",
+          "smart",
+          "metrics",
+          "body-composition",
+          "wellness",
+          "progress"
+        ]
+      },
+      "scores": {
+        "overall": 0.3329,
+        "content_similarity": 0.1175,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "SmartScale Body Composition Analyzer ($69.99) matches with an overall score of 33%. Content similarity is 12% and attribute alignment is 75%. Key features: 13 Body Metrics; Wi-Fi + Bluetooth; Unlimited User Profiles. Rated 4.5/5 from 7821 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Health > Monitors",
+          "Tag match: health, fitness",
+          "Feature highlight: 13 Body Metrics"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 5,
+      "product": {
+        "id": "P018",
+        "name": "ProPower Adjustable Dumbbells 5-50lb",
+        "category": "Sports & Outdoors",
+        "subcategory": "Fitness",
+        "price": 299.99,
+        "brand": "IronForge",
+        "rating": 4.5,
+        "review_count": 1876,
+        "description": "Space-saving adjustable dumbbell set. Quickly switch from 5 to 50 lbs with a single dial.",
+        "features": [
+          "Adjustable: 5-50 lbs",
+          "Single Dial Adjustment",
+          "Weight Storage Tray",
+          "Space-Saving Design",
+          "Smooth Handle Grip",
+          "Durable Steel Plates"
+        ],
+        "tags": [
+          "fitness",
+          "strength-training",
+          "home-gym",
+          "weights",
+          "muscle",
+          "exercise",
+          "compact",
+          "durable"
+        ]
+      },
+      "scores": {
+        "overall": 0.3243,
+        "content_similarity": 0.0603,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0273
+      },
+      "rationale": {
+        "rationale": "ProPower Adjustable Dumbbells 5-50lb ($299.99) matches with an overall score of 32%. Content similarity is 6% and attribute alignment is 83%. Key features: Adjustable: 5-50 lbs; Single Dial Adjustment; Weight Storage Tray. Rated 4.5/5 from 1876 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Sports & Outdoors > Fitness",
+          "Tag match: fitness, strength-training",
+          "Feature highlight: Adjustable: 5-50 lbs"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 6,
+      "product": {
+        "id": "P041",
+        "name": "SolarFlame Portable Grill",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 119.99,
+        "brand": "OutdoorChef",
+        "rating": 4.2,
+        "review_count": 1876,
+        "description": "Compact charcoal portable grill with built-in thermometer. Perfect for tailgating and camping.",
+        "features": [
+          "Compact Portable Size",
+          "Built-in Thermometer",
+          "Adjustable Vents",
+          "Ash Catcher",
+          "Chrome Grate",
+          "Folding Legs",
+          "Carry Handle"
+        ],
+        "tags": [
+          "camping",
+          "grilling",
+          "outdoor",
+          "bbq",
+          "tailgating",
+          "cooking",
+          "portable",
+          "summer"
+        ]
+      },
+      "scores": {
+        "overall": 0.3057,
+        "content_similarity": 0.1244,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0191
+      },
+      "rationale": {
+        "rationale": "SolarFlame Portable Grill ($119.99) matches with an overall score of 31%. Content similarity is 12% and attribute alignment is 67%. Key features: Compact Portable Size; Built-in Thermometer; Adjustable Vents. Rated 4.2/5 from 1876 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Sports & Outdoors > Camping",
+          "Tag match: camping, grilling",
+          "Feature highlight: Compact Portable Size"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 7,
+      "product": {
+        "id": "P042",
+        "name": "SleepSound White Noise Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Wellness",
+        "price": 44.99,
+        "brand": "ZenSpace",
+        "rating": 4.4,
+        "review_count": 6789,
+        "description": "30 soothing sounds white noise machine with night light, timer, and memory function.",
+        "features": [
+          "30 Soothing Sounds",
+          "7-Color Night Light",
+          "Auto Timer (30/60/90min)",
+          "Memory Function",
+          "USB Charging Port",
+          "Portable Size"
+        ],
+        "tags": [
+          "sleep",
+          "wellness",
+          "white-noise",
+          "baby",
+          "relaxation",
+          "travel",
+          "insomnia",
+          "bedroom"
+        ]
+      },
+      "scores": {
+        "overall": 0.2696,
+        "content_similarity": 0.0618,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0287
+      },
+      "rationale": {
+        "rationale": "SleepSound White Noise Machine ($44.99) matches with an overall score of 27%. Content similarity is 6% and attribute alignment is 67%. Key features: 30 Soothing Sounds; 7-Color Night Light; Auto Timer (30/60/90min). Rated 4.4/5 from 6789 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Wellness",
+          "Tag match: sleep, wellness",
+          "Feature highlight: 30 Soothing Sounds"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 8,
+      "product": {
+        "id": "P013",
+        "name": "AromaDiffuse Essential Oil Diffuser",
+        "category": "Home & Kitchen",
+        "subcategory": "Home Decor",
+        "price": 49.99,
+        "brand": "ZenSpace",
+        "rating": 4.3,
+        "review_count": 4721,
+        "description": "500ml ultrasonic essential oil diffuser with 7-color LED lights and auto-shutoff.",
+        "features": [
+          "500ml Capacity",
+          "Ultrasonic Technology",
+          "7-Color LED Lights",
+          "Auto Shut-off",
+          "4 Timer Settings",
+          "Quiet Operation",
+          "Remote Control"
+        ],
+        "tags": [
+          "aromatherapy",
+          "wellness",
+          "home",
+          "relaxation",
+          "zen",
+          "decor",
+          "mood",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.2551,
+        "content_similarity": 0.0839,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0245
+      },
+      "rationale": {
+        "rationale": "AromaDiffuse Essential Oil Diffuser ($49.99) matches with an overall score of 26%. Content similarity is 8% and attribute alignment is 58%. Key features: 500ml Capacity; Ultrasonic Technology; 7-Color LED Lights. Rated 4.3/5 from 4721 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Home Decor",
+          "Tag match: aromatherapy, wellness",
+          "Feature highlight: 500ml Capacity"
+        ],
+        "potential_concerns": []
+      }
+    }
+  ]
+}

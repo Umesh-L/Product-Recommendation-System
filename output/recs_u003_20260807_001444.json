@@ -1,0 +1,205 @@
+{
+  "generated_at": "2026-08-06T18:44:44.236789Z",
+  "user_profile": {
+    "id": "U003",
+    "name": "Raj — Home Cook & Aspiring Home Chef",
+    "background": "Working professional recently moved into a new apartment. Loves hosting weekend dinner parties and experimenting with cuisines.",
+    "goals": "Set up a functional kitchen with quality tools. Upgrade coffee and baking setup. Organize meals and reduce food waste.",
+    "known_skills": [
+      "Home cooking",
+      "Baking basics",
+      "Italian cuisine",
+      "Indian cuisine"
+    ],
+    "interests": [
+      "cooking",
+      "baking",
+      "sous vide",
+      "specialty coffee",
+      "meal-prep",
+      "hosting",
+      "kitchen organization"
+    ],
+    "usage_context": "Cooks dinner 5 nights a week, bakes on Sundays, uses coffee machine twice daily.",
+    "preferences": {
+      "preferred_categories": [
+        "Home & Kitchen"
+      ],
+      "preferred_brands": [
+        "KitchenArtisan",
+        "Caffino",
+        "EcoHome",
+        "GourmetPro"
+      ],
+      "price_range": {
+        "min": 30,
+        "max": 500
+      },
+      "must_have_features": [
+        "Dishwasher Safe",
+        "Stainless Steel",
+        "Durable"
+      ],
+      "avoid_tags": [
+        "disposable",
+        "cheap",
+        "low-quality"
+      ]
+    },
+    "keywords": [
+      "knife set chef",
+      "espresso machine",
+      "sous vide",
+      "storage glass",
+      "mixing stand",
+      "cold brew"
+    ]
+  },
+  "cold_start": true,
+  "llm_rationale_enabled": true,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P049",
+        "name": "FreshBrew Cold Brew Coffee Maker",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 39.99,
+        "brand": "Caffino",
+        "rating": 4.4,
+        "review_count": 6123,
+        "description": "1.5L glass cold brew pitcher with fine-mesh filter. Makes smooth, less acidic cold brew at home.",
+        "features": [
+          "1.5L / 51oz Capacity",
+          "Fine-Mesh Stainless Filter",
+          "Thick Borosilicate Glass",
+          "Airtight Silicone Seal",
+          "Dishwasher Safe",
+          "Spill-Proof Lid"
+        ],
+        "tags": [
+          "coffee",
+          "cold-brew",
+          "kitchen",
+          "diy",
+          "beverage",
+          "summer",
+          "concentrate",
+          "affordable"
+        ]
+      },
+      "scores": {
+        "overall": 0.4715,
+        "content_similarity": 0.2974,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0284
+      },
+      "rationale": {
+        "rationale": "This product addresses Raj's goal of upgrading his coffee setup and aligns with his interest in specialty coffee. The FreshBrew Cold Brew Coffee Maker features a fine-mesh stainless filter and is dishwasher safe, matching Raj's must-have preferences. Given its price of $39.99, it offers a valuable addition to his kitchen without exceeding his budget.",
+        "key_matches": [
+          "matches goal: upgrade coffee setup",
+          "fits budget: under $50",
+          "has preferred feature: dishwasher safe"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P011",
+        "name": "BrewMaster Espresso Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 499.99,
+        "brand": "Caffino",
+        "rating": 4.4,
+        "review_count": 1932,
+        "description": "Semi-automatic espresso machine with milk frother. 15-bar pressure pump for cafe-quality drinks.",
+        "features": [
+          "15-Bar Pressure Pump",
+          "Milk Frother Steam Wand",
+          "Dual Boiler System",
+          "Programmable Shots",
+          "Removable Water Tank",
+          "Stainless Steel Finish"
+        ],
+        "tags": [
+          "coffee",
+          "espresso",
+          "kitchen",
+          "cafe",
+          "barista",
+          "premium",
+          "beverage",
+          "morning"
+        ]
+      },
+      "scores": {
+        "overall": 0.4101,
+        "content_similarity": 0.1953,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0246
+      },
+      "rationale": {
+        "rationale": "The BrewMaster Espresso Machine aligns with Raj's interest in specialty coffee and desire to upgrade his coffee setup. It features a 15-bar pressure pump and milk frother, offering cafe-quality drinks. However, its price of $499.99 is at the upper limit of Raj's budget, and he should consider whether the advanced features justify the cost.",
+        "key_matches": [
+          "matches goal: upgrade coffee setup",
+          "offers advanced coffee features",
+          "fits budget: at upper limit"
+        ],
+        "potential_concerns": [
+          "may be more expensive than necessary"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P012",
+        "name": "GreenLeaf Food Storage Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Storage",
+        "price": 39.99,
+        "brand": "EcoHome",
+        "rating": 4.6,
+        "review_count": 6543,
+        "description": "24-piece BPA-free glass food storage set with airtight lids. Oven, freezer, and dishwasher safe.",
+        "features": [
+          "24-Piece Set",
+          "Borosilicate Glass",
+          "Airtight Snap Lids",
+          "BPA-Free",
+          "Oven Safe",
+          "Freezer Safe",
+          "Dishwasher Safe"
+        ],
+        "tags": [
+          "storage",
+          "kitchen",
+          "meal-prep",
+          "eco-friendly",
+          "reusable",
+          "organize",
+          "leftovers"
+        ]
+      },
+      "scores": {
+        "overall": 0.4043,
+        "content_similarity": 0.1848,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.035
+      },
+      "rationale": {
+        "rationale": "The GreenLeaf Food Storage Set addresses Raj's goal of organizing meals and reducing food waste. It features a 24-piece BPA-free glass set with airtight lids, which is oven, freezer, and dishwasher safe. At $39.99, it provides a practical and eco-friendly solution for meal prep and storage within Raj's budget.",
+        "key_matches": [
+          "matches goal: organize meals and reduce waste",
+          "fits budget: under $50",
+          "has preferred feature: dishwasher safe"
+        ],
+        "potential_concerns": []
+      }
+    }
+  ]
+}

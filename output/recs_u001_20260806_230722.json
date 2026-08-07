@@ -1,0 +1,448 @@
+{
+  "generated_at": "2026-08-06T17:37:22.506632Z",
+  "user_profile": {
+    "id": "U001",
+    "name": "Alex — Aspiring Software Developer (Student)",
+    "background": "3rd year BCA student. Currently learning Python, web development (React + Node.js), and data structures. Lives in a shared apartment with a budget-conscious mindset.",
+    "goals": "Build a solid home setup for coding and remote internships. Save money on daily purchases. Learn data science basics on the side.",
+    "known_skills": [
+      "Python basics",
+      "HTML/CSS",
+      "JavaScript basics",
+      "MySQL basics"
+    ],
+    "interests": [
+      "coding",
+      "open-source",
+      "hackathons",
+      "indie games",
+      "mechanical keyboards",
+      "coffee"
+    ],
+    "usage_context": "Primary use: 6-8 hours daily coding, virtual meetings, and streaming tutorials. Occasional light gaming on weekends.",
+    "preferences": {
+      "preferred_categories": [
+        "Electronics",
+        "Books",
+        "Sports & Outdoors"
+      ],
+      "preferred_brands": [
+        "TechNova",
+        "KeyCraft",
+        "Lumina",
+        "PureRadiance"
+      ],
+      "price_range": {
+        "min": 20,
+        "max": 600
+      },
+      "must_have_features": [
+        "8GB RAM",
+        "USB-C",
+        "Rechargeable"
+      ],
+      "avoid_tags": [
+        "premium",
+        "flagship",
+        "high-end"
+      ]
+    },
+    "keywords": [
+      "laptop budget",
+      "mechanical keyboard",
+      "programming books",
+      "desk setup",
+      "coding"
+    ]
+  },
+  "cold_start": true,
+  "llm_rationale_enabled": false,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P050",
+        "name": "CodeMaster Coding Mouse for Kids",
+        "category": "Electronics",
+        "subcategory": "Toys & Learning",
+        "price": 59.99,
+        "brand": "LearnTech",
+        "rating": 4.6,
+        "review_count": 2345,
+        "description": "Screen-free coding mouse for ages 4+. Teaches sequencing, problem-solving, and basic programming concepts.",
+        "features": [
+          "Screen-Free Coding",
+          "Ages 4+",
+          "Color-Coded Buttons",
+          "30-Piece Activity Set",
+          "STEM Certified",
+          "2-Player Mode",
+          "Award-Winning"
+        ],
+        "tags": [
+          "kids",
+          "learning",
+          "stem",
+          "coding",
+          "educational",
+          "toy",
+          "programming",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3803,
+        "content_similarity": 0.291,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0309
+      },
+      "rationale": {
+        "rationale": "CodeMaster Coding Mouse for Kids ($59.99) matches with an overall score of 38%. Content similarity is 29% and attribute alignment is 58%. Key features: Screen-Free Coding; Ages 4+; Color-Coded Buttons. Rated 4.6/5 from 2345 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Toys & Learning",
+          "Tag match: kids, learning",
+          "Feature highlight: Screen-Free Coding"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P002",
+        "name": "SwiftGo 14\" Budget Laptop",
+        "category": "Electronics",
+        "subcategory": "Laptops",
+        "price": 499.99,
+        "brand": "CompuWave",
+        "rating": 3.9,
+        "review_count": 1523,
+        "description": "Affordable everyday laptop for students and casual users. Intel i3, 8GB RAM, 256GB SSD, USB-C charging.",
+        "features": [
+          "14-inch HD Display",
+          "Intel Core i3",
+          "8GB RAM",
+          "256GB SSD",
+          "7hr Battery",
+          "Webcam",
+          "HDMI Port",
+          "USB-C Charging"
+        ],
+        "tags": [
+          "budget",
+          "student",
+          "everyday",
+          "casual",
+          "affordable",
+          "school",
+          "homework",
+          "coding",
+          "developer"
+        ]
+      },
+      "scores": {
+        "overall": 0.3476,
+        "content_similarity": 0.141,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0106
+      },
+      "rationale": {
+        "rationale": "SwiftGo 14\" Budget Laptop ($499.99) matches with an overall score of 35%. Content similarity is 14% and attribute alignment is 75%. Key features: 14-inch HD Display; Intel Core i3; 8GB RAM. Rated 3.9/5 from 1523 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Laptops",
+          "Tag match: budget, student",
+          "Feature highlight: 14-inch HD Display"
+        ],
+        "potential_concerns": [
+          "Rating is 3.9/5, slightly below the top tier"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P014",
+        "name": "Python for Data Science Handbook",
+        "category": "Books",
+        "subcategory": "Technology",
+        "price": 44.99,
+        "brand": "TechPress",
+        "rating": 4.8,
+        "review_count": 987,
+        "description": "Comprehensive guide to Python libraries for data analysis: NumPy, Pandas, Matplotlib, and Scikit-learn.",
+        "features": [
+          "528 Pages",
+          "Code Examples",
+          "Hands-on Exercises",
+          "Full Color Print",
+          "PDF Companion",
+          "GitHub Repository"
+        ],
+        "tags": [
+          "programming",
+          "data-science",
+          "python",
+          "learning",
+          "technical",
+          "career",
+          "analytics",
+          "coding"
+        ]
+      },
+      "scores": {
+        "overall": 0.324,
+        "content_similarity": 0.1971,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "Python for Data Science Handbook ($44.99) matches with an overall score of 32%. Content similarity is 20% and attribute alignment is 58%. Key features: 528 Pages; Code Examples; Hands-on Exercises. Rated 4.8/5 from 987 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Books > Technology",
+          "Tag match: programming, data-science",
+          "Feature highlight: 528 Pages"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P022",
+        "name": "PixelTab Mini 8\" Tablet",
+        "category": "Electronics",
+        "subcategory": "Tablets",
+        "price": 299.99,
+        "brand": "Lumina",
+        "rating": 4.2,
+        "review_count": 2987,
+        "description": "Compact 8-inch tablet perfect for reading, streaming, and note-taking. Stylus compatible.",
+        "features": [
+          "8-inch HD Display",
+          "4GB RAM",
+          "64GB Storage",
+          "Stylus Compatible",
+          "USB-C Charging",
+          "Dual Speakers",
+          "10hr Battery"
+        ],
+        "tags": [
+          "tablet",
+          "reading",
+          "streaming",
+          "entertainment",
+          "compact",
+          "note-taking",
+          "student",
+          "casual"
+        ]
+      },
+      "scores": {
+        "overall": 0.319,
+        "content_similarity": 0.0439,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0203
+      },
+      "rationale": {
+        "rationale": "PixelTab Mini 8\" Tablet ($299.99) matches with an overall score of 32%. Content similarity is 4% and attribute alignment is 83%. Key features: 8-inch HD Display; 4GB RAM; 64GB Storage. Rated 4.2/5 from 2987 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Tablets",
+          "Tag match: tablet, reading",
+          "Feature highlight: 8-inch HD Display"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 5,
+      "product": {
+        "id": "P040",
+        "name": "MechanicalKeyboard Pro 75%",
+        "category": "Electronics",
+        "subcategory": "Accessories",
+        "price": 149.99,
+        "brand": "KeyCraft",
+        "rating": 4.7,
+        "review_count": 6543,
+        "description": "Premium 75% hot-swappable mechanical keyboard with RGB, PBT keycaps, and wireless/Bluetooth.",
+        "features": [
+          "75% Layout",
+          "Hot-Swappable Switches",
+          "Triple Mode (Wired/BT/2.4G)",
+          "RGB Backlit",
+          "PBT Keycaps",
+          "Aluminum Frame",
+          "5000mAh Battery"
+        ],
+        "tags": [
+          "keyboard",
+          "gaming",
+          "typing",
+          "mechanical",
+          "developer",
+          "premium",
+          "wireless",
+          "customizable"
+        ]
+      },
+      "scores": {
+        "overall": 0.3059,
+        "content_similarity": 0.1664,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0382
+      },
+      "rationale": {
+        "rationale": "MechanicalKeyboard Pro 75% ($149.99) matches with an overall score of 31%. Content similarity is 17% and attribute alignment is 58%. Key features: 75% Layout; Hot-Swappable Switches; Triple Mode (Wired/BT/2.4G). Rated 4.7/5 from 6543 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Accessories",
+          "Tag match: keyboard, gaming",
+          "Feature highlight: 75% Layout"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 6,
+      "product": {
+        "id": "P032",
+        "name": "RapidCharge 65W GaN Charger",
+        "category": "Electronics",
+        "subcategory": "Accessories",
+        "price": 49.99,
+        "brand": "VoltMax",
+        "rating": 4.5,
+        "review_count": 7234,
+        "description": "Compact 65W GaN charger with 3 ports (2 USB-C + 1 USB-A). Fast charges laptops and phones.",
+        "features": [
+          "65W GaN Technology",
+          "3 Ports (2C+1A)",
+          "Compact Foldable Plug",
+          "PD 3.0 / QC 3.0",
+          "Universal Voltage",
+          "Overheat Protection"
+        ],
+        "tags": [
+          "accessories",
+          "charging",
+          "travel",
+          "tech",
+          "fast-charge",
+          "compact",
+          "usb-c",
+          "laptop"
+        ]
+      },
+      "scores": {
+        "overall": 0.2442,
+        "content_similarity": 0.0154,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0322
+      },
+      "rationale": {
+        "rationale": "RapidCharge 65W GaN Charger ($49.99) matches with an overall score of 24%. Content similarity is 2% and attribute alignment is 67%. Key features: 65W GaN Technology; 3 Ports (2C+1A); Compact Foldable Plug. Rated 4.5/5 from 7234 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Accessories",
+          "Tag match: accessories, charging",
+          "Feature highlight: 65W GaN Technology"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 7,
+      "product": {
+        "id": "P030",
+        "name": "FireFly LED Camping Lantern (2-pack)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 34.99,
+        "brand": "PeakGear",
+        "rating": 4.5,
+        "review_count": 5678,
+        "description": "2-pack of rechargeable LED camping lanterns. 500lm brightness, 4 modes, IP65 waterproof.",
+        "features": [
+          "2-Pack Included",
+          "500 Lumens Brightness",
+          "4 Light Modes",
+          "Rechargeable 4000mAh",
+          "IP65 Waterproof",
+          "Power Bank Function",
+          "Magnetic Base"
+        ],
+        "tags": [
+          "camping",
+          "outdoor",
+          "lighting",
+          "emergency",
+          "hiking",
+          "rechargeable",
+          "durable",
+          "backpacking"
+        ]
+      },
+      "scores": {
+        "overall": 0.2426,
+        "content_similarity": 0.0129,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0313
+      },
+      "rationale": {
+        "rationale": "FireFly LED Camping Lantern (2-pack) ($34.99) matches with an overall score of 24%. Content similarity is 1% and attribute alignment is 67%. Key features: 2-Pack Included; 500 Lumens Brightness; 4 Light Modes. Rated 4.5/5 from 5678 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Sports & Outdoors > Camping",
+          "Tag match: camping, outdoor",
+          "Feature highlight: 2-Pack Included"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 8,
+      "product": {
+        "id": "P039",
+        "name": "CrystalClear 4K Monitor 27\"",
+        "category": "Electronics",
+        "subcategory": "Displays",
+        "price": 399.99,
+        "brand": "ViewTech",
+        "rating": 4.5,
+        "review_count": 2876,
+        "description": "27-inch 4K UHD IPS monitor with HDR10, 100% sRGB, USB-C power delivery, and ergonomic stand.",
+        "features": [
+          "27-inch 4K UHD (3840x2160)",
+          "IPS Panel",
+          "HDR10",
+          "100% sRGB Coverage",
+          "USB-C 90W PD",
+          "Ergonomic Stand (Swivel/Tilt/Height)",
+          "Blue Light Filter"
+        ],
+        "tags": [
+          "monitor",
+          "display",
+          "design",
+          "creative",
+          "4k",
+          "productivity",
+          "usb-c",
+          "developer"
+        ]
+      },
+      "scores": {
+        "overall": 0.242,
+        "content_similarity": 0.012,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0288
+      },
+      "rationale": {
+        "rationale": "CrystalClear 4K Monitor 27\" ($399.99) matches with an overall score of 24%. Content similarity is 1% and attribute alignment is 67%. Key features: 27-inch 4K UHD (3840x2160); IPS Panel; HDR10. Rated 4.5/5 from 2876 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Electronics > Displays",
+          "Tag match: monitor, display",
+          "Feature highlight: 27-inch 4K UHD (3840x2160)"
+        ],
+        "potential_concerns": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "generated_at": "2026-08-06T17:48:36.604767Z",
+  "user_profile": {
+    "id": "U003",
+    "name": "Raj — Home Cook & Aspiring Home Chef",
+    "background": "Working professional recently moved into a new apartment. Loves hosting weekend dinner parties and experimenting with cuisines.",
+    "goals": "Set up a functional kitchen with quality tools. Upgrade coffee and baking setup. Organize meals and reduce food waste.",
+    "known_skills": [
+      "Home cooking",
+      "Baking basics",
+      "Italian cuisine",
+      "Indian cuisine"
+    ],
+    "interests": [
+      "cooking",
+      "baking",
+      "sous vide",
+      "specialty coffee",
+      "meal-prep",
+      "hosting",
+      "kitchen organization"
+    ],
+    "usage_context": "Cooks dinner 5 nights a week, bakes on Sundays, uses coffee machine twice daily.",
+    "preferences": {
+      "preferred_categories": [
+        "Home & Kitchen"
+      ],
+      "preferred_brands": [
+        "KitchenArtisan",
+        "Caffino",
+        "EcoHome",
+        "GourmetPro"
+      ],
+      "price_range": {
+        "min": 30,
+        "max": 500
+      },
+      "must_have_features": [
+        "Dishwasher Safe",
+        "Stainless Steel",
+        "Durable"
+      ],
+      "avoid_tags": [
+        "disposable",
+        "cheap",
+        "low-quality"
+      ]
+    },
+    "keywords": [
+      "knife set chef",
+      "espresso machine",
+      "sous vide",
+      "storage glass",
+      "mixing stand",
+      "cold brew"
+    ]
+  },
+  "cold_start": true,
+  "llm_rationale_enabled": true,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P049",
+        "name": "FreshBrew Cold Brew Coffee Maker",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 39.99,
+        "brand": "Caffino",
+        "rating": 4.4,
+        "review_count": 6123,
+        "description": "1.5L glass cold brew pitcher with fine-mesh filter. Makes smooth, less acidic cold brew at home.",
+        "features": [
+          "1.5L / 51oz Capacity",
+          "Fine-Mesh Stainless Filter",
+          "Thick Borosilicate Glass",
+          "Airtight Silicone Seal",
+          "Dishwasher Safe",
+          "Spill-Proof Lid"
+        ],
+        "tags": [
+          "coffee",
+          "cold-brew",
+          "kitchen",
+          "diy",
+          "beverage",
+          "summer",
+          "concentrate",
+          "affordable"
+        ]
+      },
+      "scores": {
+        "overall": 0.4715,
+        "content_similarity": 0.2974,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0284
+      },
+      "rationale": {
+        "rationale": "The FreshBrew Cold Brew Coffee Maker is a great match for Raj as it addresses his interest in specialty coffee and fits his budget of $30-$500. The product features a fine-mesh stainless filter and is dishwasher safe, aligning with Raj's preference for durable and easy-to-clean products. Given its price of $39.99, this product offers a good value proposition for a high-quality cold brew coffee maker.",
+        "key_matches": [
+          "matches interest: specialty coffee",
+          "fits budget: under $500",
+          "has preferred feature: dishwasher safe"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P011",
+        "name": "BrewMaster Espresso Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 499.99,
+        "brand": "Caffino",
+        "rating": 4.4,
+        "review_count": 1932,
+        "description": "Semi-automatic espresso machine with milk frother. 15-bar pressure pump for cafe-quality drinks.",
+        "features": [
+          "15-Bar Pressure Pump",
+          "Milk Frother Steam Wand",
+          "Dual Boiler System",
+          "Programmable Shots",
+          "Removable Water Tank",
+          "Stainless Steel Finish"
+        ],
+        "tags": [
+          "coffee",
+          "espresso",
+          "kitchen",
+          "cafe",
+          "barista",
+          "premium",
+          "beverage",
+          "morning"
+        ]
+      },
+      "scores": {
+        "overall": 0.4101,
+        "content_similarity": 0.1953,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0246
+      },
+      "rationale": {
+        "rationale": "The BrewMaster Espresso Machine aligns with Raj's interest in specialty coffee, but its price of $499.99 is at the higher end of his budget. This semi-automatic espresso machine features a 15-bar pressure pump and milk frother, making it a good fit for those who want to create cafe-quality drinks at home. However, the cost may be a tradeoff for some users.",
+        "key_matches": [
+          "matches interest: specialty coffee",
+          "has preferred feature: stainless steel"
+        ],
+        "potential_concerns": [
+          "high price point"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P012",
+        "name": "GreenLeaf Food Storage Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Storage",
+        "price": 39.99,
+        "brand": "EcoHome",
+        "rating": 4.6,
+        "review_count": 6543,
+        "description": "24-piece BPA-free glass food storage set with airtight lids. Oven, freezer, and dishwasher safe.",
+        "features": [
+          "24-Piece Set",
+          "Borosilicate Glass",
+          "Airtight Snap Lids",
+          "BPA-Free",
+          "Oven Safe",
+          "Freezer Safe",
+          "Dishwasher Safe"
+        ],
+        "tags": [
+          "storage",
+          "kitchen",
+          "meal-prep",
+          "eco-friendly",
+          "reusable",
+          "organize",
+          "leftovers"
+        ]
+      },
+      "scores": {
+        "overall": 0.4043,
+        "content_similarity": 0.1848,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.035
+      },
+      "rationale": {
+        "rationale": "The GreenLeaf Food Storage Set is a practical choice for Raj, as it helps with meal prep and reduces food waste. This 24-piece set is made of BPA-free glass, is oven and freezer safe, and features airtight lids. At $39.99, it's an affordable option that aligns with Raj's goal of organizing his kitchen and reducing waste.",
+        "key_matches": [
+          "matches goal: reduce food waste",
+          "fits budget: under $500",
+          "has preferred feature: dishwasher safe"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P010",
+        "name": "ChefPro 12-Piece Knife Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Cookware",
+        "price": 149.99,
+        "brand": "KitchenArtisan",
+        "rating": 4.5,
+        "review_count": 3287,
+        "description": "Professional-grade stainless steel knife set with wooden block and built-in sharpener.",
+        "features": [
+          "High-Carbon Stainless Steel",
+          "Ergonomic Handles",
+          "Wooden Storage Block",
+          "Built-in Sharpener",
+          "12-Piece Set",
+          "Rust Resistant"
+        ],
+        "tags": [
+          "cooking",
+          "chef",
+          "kitchen",
+          "sharp",
+          "professional",
+          "durable",
+          "cookware",
+          "cutting"
+        ]
+      },
+      "scores": {
+        "overall": 0.3973,
+        "content_similarity": 0.125,
+        "attribute_match": 0.9167,
+        "rating_boost": 0.0293
+      },
+      "rationale": {
+        "rationale": "The ChefPro 12-Piece Knife Set is a good match for Raj, as it addresses his need for quality kitchen tools. This professional-grade stainless steel knife set includes a wooden block and built-in sharpener, making it a valuable addition to any home kitchen. Although the price of $149.99 is higher than some other options, the quality and durability of the product make it a worthwhile investment.",
+        "key_matches": [
+          "matches goal: set up functional kitchen",
+          "has preferred feature: stainless steel",
+          "has preferred feature: durable"
+        ],
+        "potential_concerns": [
+          "higher price point"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "product": {
+        "id": "P035",
+        "name": "SousVide Precision Cooker Pro",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 179.99,
+        "brand": "GourmetPro",
+        "rating": 4.7,
+        "review_count": 1987,
+        "description": "1200W professional sous vide machine. Wi-Fi app control, precise temperature, quiet operation.",
+        "features": [
+          "1200W Power",
+          "0.1°C Precision",
+          "Wi-Fi App Control",
+          "Clip-On Design",
+          "Quiet Pump",
+          "Large Capacity Bath",
+          "IPX7 Waterproof"
+        ],
+        "tags": [
+          "cooking",
+          "sous-vide",
+          "gourmet",
+          "kitchen",
+          "precise",
+          "professional",
+          "app-controlled",
+          "steak"
+        ]
+      },
+      "scores": {
+        "overall": 0.3633,
+        "content_similarity": 0.1653,
+        "attribute_match": 0.75,
+        "rating_boost": 0.033
+      },
+      "rationale": {
+        "rationale": "The SousVide Precision Cooker Pro is an excellent choice for Raj, given his interest in cooking and experimenting with new techniques. This 1200W sous vide machine features Wi-Fi app control and precise temperature control, making it easy to achieve professional-grade results at home. At $179.99, it's a significant investment, but the quality and versatility of the product make it a good value.",
+        "key_matches": [
+          "matches interest: cooking",
+          "has preferred feature: precise temperature control"
+        ],
+        "potential_concerns": [
+          "higher price point"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "product": {
+        "id": "P025",
+        "name": "WhiskPro Stand Mixer 600W",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 329.99,
+        "brand": "KitchenArtisan",
+        "rating": 4.6,
+        "review_count": 3456,
+        "description": "6-quart stand mixer with 600W motor. Includes dough hook, whisk, and beater attachments.",
+        "features": [
+          "6-Quart Stainless Bowl",
+          "600W Powerful Motor",
+          "10 Speed Settings",
+          "3 Attachments Included",
+          "Tilt-Head Design",
+          "Splash Guard",
+          "Multiple Color Options"
+        ],
+        "tags": [
+          "baking",
+          "kitchen",
+          "cooking",
+          "appliance",
+          "dough",
+          "premium",
+          "dessert",
+          "bread"
+        ]
+      },
+      "scores": {
+        "overall": 0.3402,
+        "content_similarity": 0.1267,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "The WhiskPro Stand Mixer 600W is a solid choice for Raj, as it aligns with his interest in baking and cooking. This 6-quart stand mixer features a powerful 600W motor and includes multiple attachments, making it a versatile addition to any home kitchen. Although the price of $329.99 is higher than some other options, the quality and features of the product make it a worthwhile investment for serious bakers.",
+        "key_matches": [
+          "matches interest: baking",
+          "has preferred feature: durable"
+        ],
+        "potential_concerns": [
+          "higher price point"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "product": {
+        "id": "P044",
+        "name": "BambooCut Reusable Utensil Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Dining",
+        "price": 24.99,
+        "brand": "EcoHome",
+        "rating": 4.6,
+        "review_count": 9876,
+        "description": "Premium bamboo reusable utensil set with chopsticks, straw, and neoprene case. Zero-waste kit.",
+        "features": [
+          "Fork, Knife, Spoon, Chopsticks, Straw",
+          "Cleaning Brush Included",
+          "100% Natural Bamboo",
+          "Neoprene Travel Case",
+          "Lightweight 3.5oz",
+          "Dishwasher Safe"
+        ],
+        "tags": [
+          "eco-friendly",
+          "reusable",
+          "zero-waste",
+          "travel",
+          "sustainable",
+          "dining",
+          "outdoor",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3136,
+        "content_similarity": 0.0335,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0366
+      },
+      "rationale": {
+        "rationale": "The BambooCut Reusable Utensil Set is a practical and eco-friendly choice for Raj, as it aligns with his interest in reducing waste and living sustainably. This set includes a fork, knife, spoon, chopsticks, and straw, all made from natural bamboo and featuring a neoprene travel case. At $24.99, it's an affordable option that promotes zero-waste living.",
+        "key_matches": [
+          "matches interest: eco-friendly",
+          "fits budget: under $500"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 8,
+      "product": {
+        "id": "P042",
+        "name": "SleepSound White Noise Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Wellness",
+        "price": 44.99,
+        "brand": "ZenSpace",
+        "rating": 4.4,
+        "review_count": 6789,
+        "description": "30 soothing sounds white noise machine with night light, timer, and memory function.",
+        "features": [
+          "30 Soothing Sounds",
+          "7-Color Night Light",
+          "Auto Timer (30/60/90min)",
+          "Memory Function",
+          "USB Charging Port",
+          "Portable Size"
+        ],
+        "tags": [
+          "sleep",
+          "wellness",
+          "white-noise",
+          "baby",
+          "relaxation",
+          "travel",
+          "insomnia",
+          "bedroom"
+        ]
+      },
+      "scores": {
+        "overall": 0.2389,
+        "content_similarity": 0.0555,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0287
+      },
+      "rationale": {
+        "rationale": "The SleepSound White Noise Machine is not a strong match for Raj, as it does not align with his interests in cooking, baking, or kitchen organization. While it may be a useful product for improving sleep quality, it does not address any of Raj's specific goals or preferences.",
+        "key_matches": [],
+        "potential_concerns": [
+          "does not align with user interests"
+        ]
+      }
+    }
+  ]
+}

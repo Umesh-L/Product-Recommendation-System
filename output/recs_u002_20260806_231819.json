@@ -1,0 +1,469 @@
+{
+  "generated_at": "2026-08-06T17:48:19.253211Z",
+  "user_profile": {
+    "id": "U002",
+    "name": "Priya — Fitness & Outdoor Enthusiast",
+    "background": "Marketing professional with 3 years experience. Active gym-goer 5 days a week, enjoys weekend treks and adventure travel.",
+    "goals": "Build a compact home gym for morning workouts. Prepare gear for a Himalayan trek next quarter. Prioritize recovery and wellness.",
+    "known_skills": [
+      "Strength training",
+      "Hiking",
+      "Yoga beginner",
+      "Meal prepping"
+    ],
+    "interests": [
+      "fitness",
+      "hiking",
+      "camping",
+      "yoga",
+      "meal-prep",
+      "wellness",
+      "outdoor photography"
+    ],
+    "usage_context": "Home workouts before work, 2-3 hour treks on weekends, occasional overnight camping trips.",
+    "preferences": {
+      "preferred_categories": [
+        "Sports & Outdoors",
+        "Health",
+        "Home & Kitchen"
+      ],
+      "preferred_brands": [
+        "StrideMax",
+        "IronForge",
+        "ZenFlow",
+        "PeakGear",
+        "FitMetrics"
+      ],
+      "price_range": {
+        "min": 25,
+        "max": 400
+      },
+      "must_have_features": [
+        "Durable",
+        "Water Resistant",
+        "Portable"
+      ],
+      "avoid_tags": [
+        "luxury",
+        "high-end",
+        "decorative"
+      ]
+    },
+    "purchase_history": [
+      "P006",
+      "P017"
+    ],
+    "keywords": [
+      "home gym",
+      "hiking gear",
+      "dumbbells",
+      "backpack 50L",
+      "resistance bands",
+      "scale body"
+    ]
+  },
+  "cold_start": false,
+  "llm_rationale_enabled": true,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P016",
+        "name": "TrailEndure Hiking Backpack 55L",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 129.99,
+        "brand": "PeakGear",
+        "rating": 4.7,
+        "review_count": 2145,
+        "description": "55-liter hiking backpack with adjustable suspension, rain cover, and multiple compartments.",
+        "features": [
+          "55L Capacity",
+          "Adjustable Suspension",
+          "Rain Cover Included",
+          "Hydration Bladder Pocket",
+          "Multiple Pockets",
+          "Hip Belt Pockets",
+          "Durable Nylon"
+        ],
+        "tags": [
+          "hiking",
+          "backpacking",
+          "camping",
+          "outdoor",
+          "adventure",
+          "trekking",
+          "travel",
+          "durable"
+        ]
+      },
+      "scores": {
+        "overall": 0.4177,
+        "content_similarity": 0.2095,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0333
+      },
+      "rationale": {
+        "rationale": "The TrailEndure Hiking Backpack 55L is a great match for Priya's needs, addressing her goal of preparing gear for a Himalayan trek. Its durable nylon construction, adjustable suspension, and rain cover make it an ideal choice for long treks. Given its price of $129.99, it offers excellent value for the features and quality provided. However, it may be more than what's needed for shorter weekend treks.",
+        "key_matches": [
+          "matches goal: prepare gear for Himalayan trek",
+          "fits preference: durable and water resistant",
+          "fits budget: under $400"
+        ],
+        "potential_concerns": [
+          "may be overkill for shorter treks"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P030",
+        "name": "FireFly LED Camping Lantern (2-pack)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 34.99,
+        "brand": "PeakGear",
+        "rating": 4.5,
+        "review_count": 5678,
+        "description": "2-pack of rechargeable LED camping lanterns. 500lm brightness, 4 modes, IP65 waterproof.",
+        "features": [
+          "2-Pack Included",
+          "500 Lumens Brightness",
+          "4 Light Modes",
+          "Rechargeable 4000mAh",
+          "IP65 Waterproof",
+          "Power Bank Function",
+          "Magnetic Base"
+        ],
+        "tags": [
+          "camping",
+          "outdoor",
+          "lighting",
+          "emergency",
+          "hiking",
+          "rechargeable",
+          "durable",
+          "backpacking"
+        ]
+      },
+      "scores": {
+        "overall": 0.3767,
+        "content_similarity": 0.141,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0313
+      },
+      "rationale": {
+        "rationale": "The FireFly LED Camping Lantern is a good fit for Priya's outdoor adventures, providing reliable lighting for camping trips. Its rechargeable battery, IP65 waterproof rating, and power bank function make it a practical choice. At $34.99, it's an affordable addition to her gear. However, it may not be as essential for her daily home workouts.",
+        "key_matches": [
+          "matches preference: outdoor and camping",
+          "fits budget: under $50",
+          "durable and water resistant"
+        ],
+        "potential_concerns": [
+          "may not be as crucial for home workouts"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P048",
+        "name": "GripMaster Resistance Bands (5 levels)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Fitness",
+        "price": 24.99,
+        "brand": "IronForge",
+        "rating": 4.5,
+        "review_count": 8901,
+        "description": "5-level resistance band set with door anchor, ankle straps, and carry bag. Full-body workouts.",
+        "features": [
+          "5 Bands (X-Light to X-Heavy)",
+          "Door Anchor Included",
+          "Ankle Straps x2",
+          "Carry Bag",
+          "Workout Guide",
+          "Natural Latex",
+          "Up to 150lbs"
+        ],
+        "tags": [
+          "fitness",
+          "home-gym",
+          "resistance-training",
+          "strength",
+          "exercise",
+          "portable",
+          "physical-therapy",
+          "beginner"
+        ]
+      },
+      "scores": {
+        "overall": 0.3504,
+        "content_similarity": 0.155,
+        "attribute_match": 0.7502,
+        "rating_boost": 0.0329
+      },
+      "rationale": {
+        "rationale": "The GripMaster Resistance Bands are a solid choice for Priya's home gym, offering a compact and portable way to work out. The 5-level resistance band set and included accessories like door anchors and ankle straps provide a full-body workout solution. At $24.99, it's an excellent value for the price. However, it may not offer the same level of intensity as other strength training equipment.",
+        "key_matches": [
+          "matches goal: build a compact home gym",
+          "fits preference: portable and durable",
+          "fits budget: under $50"
+        ],
+        "potential_concerns": [
+          "may not offer the same intensity as other equipment"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P027",
+        "name": "SmartScale Body Composition Analyzer",
+        "category": "Health",
+        "subcategory": "Monitors",
+        "price": 69.99,
+        "brand": "FitMetrics",
+        "rating": 4.5,
+        "review_count": 7821,
+        "description": "Wi-Fi/Bluetooth smart scale that measures weight, BMI, body fat, muscle mass, and more 13 metrics.",
+        "features": [
+          "13 Body Metrics",
+          "Wi-Fi + Bluetooth",
+          "Unlimited User Profiles",
+          "App Sync (iOS/Android)",
+          "Baby Mode",
+          "Athlete Mode",
+          "Sleek Glass Design"
+        ],
+        "tags": [
+          "health",
+          "fitness",
+          "weight-tracking",
+          "smart",
+          "metrics",
+          "body-composition",
+          "wellness",
+          "progress"
+        ]
+      },
+      "scores": {
+        "overall": 0.3329,
+        "content_similarity": 0.1175,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "The SmartScale Body Composition Analyzer is a great tool for Priya's fitness and wellness goals, providing detailed metrics beyond just weight. Its Wi-Fi and Bluetooth connectivity, unlimited user profiles, and sleek design make it a convenient and user-friendly choice. At $69.99, it's a bit of an investment, but it offers valuable insights into her progress. However, it may require some setup and synchronization with her devices.",
+        "key_matches": [
+          "matches goal: prioritize recovery and wellness",
+          "fits preference: health and fitness",
+          "fits budget: under $100"
+        ],
+        "potential_concerns": [
+          "may require setup and synchronization"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "product": {
+        "id": "P018",
+        "name": "ProPower Adjustable Dumbbells 5-50lb",
+        "category": "Sports & Outdoors",
+        "subcategory": "Fitness",
+        "price": 299.99,
+        "brand": "IronForge",
+        "rating": 4.5,
+        "review_count": 1876,
+        "description": "Space-saving adjustable dumbbell set. Quickly switch from 5 to 50 lbs with a single dial.",
+        "features": [
+          "Adjustable: 5-50 lbs",
+          "Single Dial Adjustment",
+          "Weight Storage Tray",
+          "Space-Saving Design",
+          "Smooth Handle Grip",
+          "Durable Steel Plates"
+        ],
+        "tags": [
+          "fitness",
+          "strength-training",
+          "home-gym",
+          "weights",
+          "muscle",
+          "exercise",
+          "compact",
+          "durable"
+        ]
+      },
+      "scores": {
+        "overall": 0.3243,
+        "content_similarity": 0.0603,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0273
+      },
+      "rationale": {
+        "rationale": "The ProPower Adjustable Dumbbells are a high-quality choice for Priya's home gym, offering a space-saving and adjustable solution for strength training. The single dial adjustment and durable steel plates make it a convenient and long-lasting option. However, at $299.99, it's a significant investment, and she may need to consider whether it fits within her budget and meets her specific workout needs.",
+        "key_matches": [
+          "matches goal: build a compact home gym",
+          "fits preference: durable and space-saving",
+          "high-quality brand: IronForge"
+        ],
+        "potential_concerns": [
+          "may be out of budget",
+          "may not be necessary for all workouts"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "product": {
+        "id": "P041",
+        "name": "SolarFlame Portable Grill",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 119.99,
+        "brand": "OutdoorChef",
+        "rating": 4.2,
+        "review_count": 1876,
+        "description": "Compact charcoal portable grill with built-in thermometer. Perfect for tailgating and camping.",
+        "features": [
+          "Compact Portable Size",
+          "Built-in Thermometer",
+          "Adjustable Vents",
+          "Ash Catcher",
+          "Chrome Grate",
+          "Folding Legs",
+          "Carry Handle"
+        ],
+        "tags": [
+          "camping",
+          "grilling",
+          "outdoor",
+          "bbq",
+          "tailgating",
+          "cooking",
+          "portable",
+          "summer"
+        ]
+      },
+      "scores": {
+        "overall": 0.3057,
+        "content_similarity": 0.1244,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0191
+      },
+      "rationale": {
+        "rationale": "The SolarFlame Portable Grill is a decent choice for Priya's outdoor adventures, providing a compact and portable grilling solution for camping trips. Its built-in thermometer and adjustable vents make it a practical option. At $119.99, it's a bit pricey, but it offers a convenient way to cook outdoors. However, it may not be as essential for her daily needs or home workouts.",
+        "key_matches": [
+          "matches preference: outdoor and camping",
+          "fits budget: under $200",
+          "portable and compact"
+        ],
+        "potential_concerns": [
+          "may not be as crucial for daily needs",
+          "may be more expensive than other options"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "product": {
+        "id": "P042",
+        "name": "SleepSound White Noise Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Wellness",
+        "price": 44.99,
+        "brand": "ZenSpace",
+        "rating": 4.4,
+        "review_count": 6789,
+        "description": "30 soothing sounds white noise machine with night light, timer, and memory function.",
+        "features": [
+          "30 Soothing Sounds",
+          "7-Color Night Light",
+          "Auto Timer (30/60/90min)",
+          "Memory Function",
+          "USB Charging Port",
+          "Portable Size"
+        ],
+        "tags": [
+          "sleep",
+          "wellness",
+          "white-noise",
+          "baby",
+          "relaxation",
+          "travel",
+          "insomnia",
+          "bedroom"
+        ]
+      },
+      "scores": {
+        "overall": 0.2696,
+        "content_similarity": 0.0618,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0287
+      },
+      "rationale": {
+        "rationale": "The SleepSound White Noise Machine is a good fit for Priya's wellness goals, providing a way to improve her sleep quality. Its 30 soothing sounds, night light, and memory function make it a useful tool for relaxation. At $44.99, it's an affordable addition to her bedtime routine. However, it may not be directly related to her fitness or outdoor activities.",
+        "key_matches": [
+          "matches goal: prioritize recovery and wellness",
+          "fits preference: wellness and relaxation",
+          "fits budget: under $50"
+        ],
+        "potential_concerns": [
+          "may not be directly related to fitness or outdoor activities"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "product": {
+        "id": "P013",
+        "name": "AromaDiffuse Essential Oil Diffuser",
+        "category": "Home & Kitchen",
+        "subcategory": "Home Decor",
+        "price": 49.99,
+        "brand": "ZenSpace",
+        "rating": 4.3,
+        "review_count": 4721,
+        "description": "500ml ultrasonic essential oil diffuser with 7-color LED lights and auto-shutoff.",
+        "features": [
+          "500ml Capacity",
+          "Ultrasonic Technology",
+          "7-Color LED Lights",
+          "Auto Shut-off",
+          "4 Timer Settings",
+          "Quiet Operation",
+          "Remote Control"
+        ],
+        "tags": [
+          "aromatherapy",
+          "wellness",
+          "home",
+          "relaxation",
+          "zen",
+          "decor",
+          "mood",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.2551,
+        "content_similarity": 0.0839,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0245
+      },
+      "rationale": {
+        "rationale": "The AromaDiffuse Essential Oil Diffuser is a nice addition to Priya's home, promoting relaxation and wellness. Its ultrasonic technology, 7-color LED lights, and auto-shutoff make it a convenient and user-friendly choice. At $49.99, it's a bit of an investment, but it offers a pleasant way to enhance her home atmosphere. However, it may not be as essential for her fitness or outdoor pursuits.",
+        "key_matches": [
+          "matches preference: wellness and relaxation",
+          "fits budget: under $50",
+          "nice home decor addition"
+        ],
+        "potential_concerns": [
+          "may not be directly related to fitness or outdoor activities"
+        ]
+      }
+    }
+  ]
+}

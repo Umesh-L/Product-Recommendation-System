@@ -1,0 +1,440 @@
+{
+  "generated_at": "2026-08-06T17:37:22.516806Z",
+  "user_profile": {
+    "id": "U003",
+    "name": "Raj — Home Cook & Aspiring Home Chef",
+    "background": "Working professional recently moved into a new apartment. Loves hosting weekend dinner parties and experimenting with cuisines.",
+    "goals": "Set up a functional kitchen with quality tools. Upgrade coffee and baking setup. Organize meals and reduce food waste.",
+    "known_skills": [
+      "Home cooking",
+      "Baking basics",
+      "Italian cuisine",
+      "Indian cuisine"
+    ],
+    "interests": [
+      "cooking",
+      "baking",
+      "sous vide",
+      "specialty coffee",
+      "meal-prep",
+      "hosting",
+      "kitchen organization"
+    ],
+    "usage_context": "Cooks dinner 5 nights a week, bakes on Sundays, uses coffee machine twice daily.",
+    "preferences": {
+      "preferred_categories": [
+        "Home & Kitchen"
+      ],
+      "preferred_brands": [
+        "KitchenArtisan",
+        "Caffino",
+        "EcoHome",
+        "GourmetPro"
+      ],
+      "price_range": {
+        "min": 30,
+        "max": 500
+      },
+      "must_have_features": [
+        "Dishwasher Safe",
+        "Stainless Steel",
+        "Durable"
+      ],
+      "avoid_tags": [
+        "disposable",
+        "cheap",
+        "low-quality"
+      ]
+    },
+    "keywords": [
+      "knife set chef",
+      "espresso machine",
+      "sous vide",
+      "storage glass",
+      "mixing stand",
+      "cold brew"
+    ]
+  },
+  "cold_start": true,
+  "llm_rationale_enabled": false,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P049",
+        "name": "FreshBrew Cold Brew Coffee Maker",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 39.99,
+        "brand": "Caffino",
+        "rating": 4.4,
+        "review_count": 6123,
+        "description": "1.5L glass cold brew pitcher with fine-mesh filter. Makes smooth, less acidic cold brew at home.",
+        "features": [
+          "1.5L / 51oz Capacity",
+          "Fine-Mesh Stainless Filter",
+          "Thick Borosilicate Glass",
+          "Airtight Silicone Seal",
+          "Dishwasher Safe",
+          "Spill-Proof Lid"
+        ],
+        "tags": [
+          "coffee",
+          "cold-brew",
+          "kitchen",
+          "diy",
+          "beverage",
+          "summer",
+          "concentrate",
+          "affordable"
+        ]
+      },
+      "scores": {
+        "overall": 0.4715,
+        "content_similarity": 0.2974,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0284
+      },
+      "rationale": {
+        "rationale": "FreshBrew Cold Brew Coffee Maker ($39.99) matches with an overall score of 47%. Content similarity is 30% and attribute alignment is 83%. Key features: 1.5L / 51oz Capacity; Fine-Mesh Stainless Filter; Thick Borosilicate Glass. Rated 4.4/5 from 6123 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Appliances",
+          "Tag match: coffee, cold-brew",
+          "Feature highlight: 1.5L / 51oz Capacity"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P011",
+        "name": "BrewMaster Espresso Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 499.99,
+        "brand": "Caffino",
+        "rating": 4.4,
+        "review_count": 1932,
+        "description": "Semi-automatic espresso machine with milk frother. 15-bar pressure pump for cafe-quality drinks.",
+        "features": [
+          "15-Bar Pressure Pump",
+          "Milk Frother Steam Wand",
+          "Dual Boiler System",
+          "Programmable Shots",
+          "Removable Water Tank",
+          "Stainless Steel Finish"
+        ],
+        "tags": [
+          "coffee",
+          "espresso",
+          "kitchen",
+          "cafe",
+          "barista",
+          "premium",
+          "beverage",
+          "morning"
+        ]
+      },
+      "scores": {
+        "overall": 0.4101,
+        "content_similarity": 0.1953,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0246
+      },
+      "rationale": {
+        "rationale": "BrewMaster Espresso Machine ($499.99) matches with an overall score of 41%. Content similarity is 20% and attribute alignment is 83%. Key features: 15-Bar Pressure Pump; Milk Frother Steam Wand; Dual Boiler System. Rated 4.4/5 from 1932 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Appliances",
+          "Tag match: coffee, espresso",
+          "Feature highlight: 15-Bar Pressure Pump"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P012",
+        "name": "GreenLeaf Food Storage Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Storage",
+        "price": 39.99,
+        "brand": "EcoHome",
+        "rating": 4.6,
+        "review_count": 6543,
+        "description": "24-piece BPA-free glass food storage set with airtight lids. Oven, freezer, and dishwasher safe.",
+        "features": [
+          "24-Piece Set",
+          "Borosilicate Glass",
+          "Airtight Snap Lids",
+          "BPA-Free",
+          "Oven Safe",
+          "Freezer Safe",
+          "Dishwasher Safe"
+        ],
+        "tags": [
+          "storage",
+          "kitchen",
+          "meal-prep",
+          "eco-friendly",
+          "reusable",
+          "organize",
+          "leftovers"
+        ]
+      },
+      "scores": {
+        "overall": 0.4043,
+        "content_similarity": 0.1848,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.035
+      },
+      "rationale": {
+        "rationale": "GreenLeaf Food Storage Set ($39.99) matches with an overall score of 40%. Content similarity is 18% and attribute alignment is 83%. Key features: 24-Piece Set; Borosilicate Glass; Airtight Snap Lids. Rated 4.6/5 from 6543 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Storage",
+          "Tag match: storage, kitchen",
+          "Feature highlight: 24-Piece Set"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P010",
+        "name": "ChefPro 12-Piece Knife Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Cookware",
+        "price": 149.99,
+        "brand": "KitchenArtisan",
+        "rating": 4.5,
+        "review_count": 3287,
+        "description": "Professional-grade stainless steel knife set with wooden block and built-in sharpener.",
+        "features": [
+          "High-Carbon Stainless Steel",
+          "Ergonomic Handles",
+          "Wooden Storage Block",
+          "Built-in Sharpener",
+          "12-Piece Set",
+          "Rust Resistant"
+        ],
+        "tags": [
+          "cooking",
+          "chef",
+          "kitchen",
+          "sharp",
+          "professional",
+          "durable",
+          "cookware",
+          "cutting"
+        ]
+      },
+      "scores": {
+        "overall": 0.3973,
+        "content_similarity": 0.125,
+        "attribute_match": 0.9167,
+        "rating_boost": 0.0293
+      },
+      "rationale": {
+        "rationale": "ChefPro 12-Piece Knife Set ($149.99) matches with an overall score of 40%. Content similarity is 12% and attribute alignment is 92%. Key features: High-Carbon Stainless Steel; Ergonomic Handles; Wooden Storage Block. Rated 4.5/5 from 3287 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Cookware",
+          "Tag match: cooking, chef",
+          "Feature highlight: High-Carbon Stainless Steel"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 5,
+      "product": {
+        "id": "P035",
+        "name": "SousVide Precision Cooker Pro",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 179.99,
+        "brand": "GourmetPro",
+        "rating": 4.7,
+        "review_count": 1987,
+        "description": "1200W professional sous vide machine. Wi-Fi app control, precise temperature, quiet operation.",
+        "features": [
+          "1200W Power",
+          "0.1°C Precision",
+          "Wi-Fi App Control",
+          "Clip-On Design",
+          "Quiet Pump",
+          "Large Capacity Bath",
+          "IPX7 Waterproof"
+        ],
+        "tags": [
+          "cooking",
+          "sous-vide",
+          "gourmet",
+          "kitchen",
+          "precise",
+          "professional",
+          "app-controlled",
+          "steak"
+        ]
+      },
+      "scores": {
+        "overall": 0.3633,
+        "content_similarity": 0.1653,
+        "attribute_match": 0.75,
+        "rating_boost": 0.033
+      },
+      "rationale": {
+        "rationale": "SousVide Precision Cooker Pro ($179.99) matches with an overall score of 36%. Content similarity is 17% and attribute alignment is 75%. Key features: 1200W Power; 0.1°C Precision; Wi-Fi App Control. Rated 4.7/5 from 1987 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Appliances",
+          "Tag match: cooking, sous-vide",
+          "Feature highlight: 1200W Power"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 6,
+      "product": {
+        "id": "P025",
+        "name": "WhiskPro Stand Mixer 600W",
+        "category": "Home & Kitchen",
+        "subcategory": "Appliances",
+        "price": 329.99,
+        "brand": "KitchenArtisan",
+        "rating": 4.6,
+        "review_count": 3456,
+        "description": "6-quart stand mixer with 600W motor. Includes dough hook, whisk, and beater attachments.",
+        "features": [
+          "6-Quart Stainless Bowl",
+          "600W Powerful Motor",
+          "10 Speed Settings",
+          "3 Attachments Included",
+          "Tilt-Head Design",
+          "Splash Guard",
+          "Multiple Color Options"
+        ],
+        "tags": [
+          "baking",
+          "kitchen",
+          "cooking",
+          "appliance",
+          "dough",
+          "premium",
+          "dessert",
+          "bread"
+        ]
+      },
+      "scores": {
+        "overall": 0.3402,
+        "content_similarity": 0.1267,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "WhiskPro Stand Mixer 600W ($329.99) matches with an overall score of 34%. Content similarity is 13% and attribute alignment is 75%. Key features: 6-Quart Stainless Bowl; 600W Powerful Motor; 10 Speed Settings. Rated 4.6/5 from 3456 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Appliances",
+          "Tag match: baking, kitchen",
+          "Feature highlight: 6-Quart Stainless Bowl"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 7,
+      "product": {
+        "id": "P044",
+        "name": "BambooCut Reusable Utensil Set",
+        "category": "Home & Kitchen",
+        "subcategory": "Dining",
+        "price": 24.99,
+        "brand": "EcoHome",
+        "rating": 4.6,
+        "review_count": 9876,
+        "description": "Premium bamboo reusable utensil set with chopsticks, straw, and neoprene case. Zero-waste kit.",
+        "features": [
+          "Fork, Knife, Spoon, Chopsticks, Straw",
+          "Cleaning Brush Included",
+          "100% Natural Bamboo",
+          "Neoprene Travel Case",
+          "Lightweight 3.5oz",
+          "Dishwasher Safe"
+        ],
+        "tags": [
+          "eco-friendly",
+          "reusable",
+          "zero-waste",
+          "travel",
+          "sustainable",
+          "dining",
+          "outdoor",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3136,
+        "content_similarity": 0.0335,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0366
+      },
+      "rationale": {
+        "rationale": "BambooCut Reusable Utensil Set ($24.99) matches with an overall score of 31%. Content similarity is 3% and attribute alignment is 83%. Key features: Fork, Knife, Spoon, Chopsticks, Straw; Cleaning Brush Included; 100% Natural Bamboo. Rated 4.6/5 from 9876 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Dining",
+          "Tag match: eco-friendly, reusable",
+          "Feature highlight: Fork, Knife, Spoon, Chopsticks, Straw"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 8,
+      "product": {
+        "id": "P042",
+        "name": "SleepSound White Noise Machine",
+        "category": "Home & Kitchen",
+        "subcategory": "Wellness",
+        "price": 44.99,
+        "brand": "ZenSpace",
+        "rating": 4.4,
+        "review_count": 6789,
+        "description": "30 soothing sounds white noise machine with night light, timer, and memory function.",
+        "features": [
+          "30 Soothing Sounds",
+          "7-Color Night Light",
+          "Auto Timer (30/60/90min)",
+          "Memory Function",
+          "USB Charging Port",
+          "Portable Size"
+        ],
+        "tags": [
+          "sleep",
+          "wellness",
+          "white-noise",
+          "baby",
+          "relaxation",
+          "travel",
+          "insomnia",
+          "bedroom"
+        ]
+      },
+      "scores": {
+        "overall": 0.2389,
+        "content_similarity": 0.0555,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0287
+      },
+      "rationale": {
+        "rationale": "SleepSound White Noise Machine ($44.99) matches with an overall score of 24%. Content similarity is 6% and attribute alignment is 58%. Key features: 30 Soothing Sounds; 7-Color Night Light; Auto Timer (30/60/90min). Rated 4.4/5 from 6789 reviews, indicating strong market confidence.",
+        "key_matches": [
+          "Category: Home & Kitchen > Wellness",
+          "Tag match: sleep, wellness",
+          "Feature highlight: 30 Soothing Sounds"
+        ],
+        "potential_concerns": []
+      }
+    }
+  ]
+}

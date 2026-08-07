@@ -1,0 +1,457 @@
+{
+  "generated_at": "2026-08-06T17:48:15.886487Z",
+  "user_profile": {
+    "id": "U001",
+    "name": "Alex — Aspiring Software Developer (Student)",
+    "background": "3rd year BCA student. Currently learning Python, web development (React + Node.js), and data structures. Lives in a shared apartment with a budget-conscious mindset.",
+    "goals": "Build a solid home setup for coding and remote internships. Save money on daily purchases. Learn data science basics on the side.",
+    "known_skills": [
+      "Python basics",
+      "HTML/CSS",
+      "JavaScript basics",
+      "MySQL basics"
+    ],
+    "interests": [
+      "coding",
+      "open-source",
+      "hackathons",
+      "indie games",
+      "mechanical keyboards",
+      "coffee"
+    ],
+    "usage_context": "Primary use: 6-8 hours daily coding, virtual meetings, and streaming tutorials. Occasional light gaming on weekends.",
+    "preferences": {
+      "preferred_categories": [
+        "Electronics",
+        "Books",
+        "Sports & Outdoors"
+      ],
+      "preferred_brands": [
+        "TechNova",
+        "KeyCraft",
+        "Lumina",
+        "PureRadiance"
+      ],
+      "price_range": {
+        "min": 20,
+        "max": 600
+      },
+      "must_have_features": [
+        "8GB RAM",
+        "USB-C",
+        "Rechargeable"
+      ],
+      "avoid_tags": [
+        "premium",
+        "flagship",
+        "high-end"
+      ]
+    },
+    "keywords": [
+      "laptop budget",
+      "mechanical keyboard",
+      "programming books",
+      "desk setup",
+      "coding"
+    ]
+  },
+  "cold_start": true,
+  "llm_rationale_enabled": true,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P050",
+        "name": "CodeMaster Coding Mouse for Kids",
+        "category": "Electronics",
+        "subcategory": "Toys & Learning",
+        "price": 59.99,
+        "brand": "LearnTech",
+        "rating": 4.6,
+        "review_count": 2345,
+        "description": "Screen-free coding mouse for ages 4+. Teaches sequencing, problem-solving, and basic programming concepts.",
+        "features": [
+          "Screen-Free Coding",
+          "Ages 4+",
+          "Color-Coded Buttons",
+          "30-Piece Activity Set",
+          "STEM Certified",
+          "2-Player Mode",
+          "Award-Winning"
+        ],
+        "tags": [
+          "kids",
+          "learning",
+          "stem",
+          "coding",
+          "educational",
+          "toy",
+          "programming",
+          "gift"
+        ]
+      },
+      "scores": {
+        "overall": 0.3803,
+        "content_similarity": 0.291,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0309
+      },
+      "rationale": {
+        "rationale": "This product does not align well with Alex's needs as it is designed for kids and does not meet the requirements for a coding setup. However, it could be a gift for a younger sibling or cousin. The price is reasonable, but it lacks relevance to Alex's current goals.",
+        "key_matches": [
+          "fits budget: under $100"
+        ],
+        "potential_concerns": [
+          "not suitable for professional coding",
+          "lacks features for data science learning"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P002",
+        "name": "SwiftGo 14\" Budget Laptop",
+        "category": "Electronics",
+        "subcategory": "Laptops",
+        "price": 499.99,
+        "brand": "CompuWave",
+        "rating": 3.9,
+        "review_count": 1523,
+        "description": "Affordable everyday laptop for students and casual users. Intel i3, 8GB RAM, 256GB SSD, USB-C charging.",
+        "features": [
+          "14-inch HD Display",
+          "Intel Core i3",
+          "8GB RAM",
+          "256GB SSD",
+          "7hr Battery",
+          "Webcam",
+          "HDMI Port",
+          "USB-C Charging"
+        ],
+        "tags": [
+          "budget",
+          "student",
+          "everyday",
+          "casual",
+          "affordable",
+          "school",
+          "homework",
+          "coding",
+          "developer"
+        ]
+      },
+      "scores": {
+        "overall": 0.3476,
+        "content_similarity": 0.141,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0106
+      },
+      "rationale": {
+        "rationale": "The SwiftGo 14\" Budget Laptop addresses Alex's goal of building a home setup for coding and remote internships. It features 8GB RAM, USB-C charging, and an Intel Core i3 processor, making it suitable for coding and everyday tasks. The price is within Alex's budget, offering a good balance of features and affordability.",
+        "key_matches": [
+          "matches goal: build home setup",
+          "fits budget: under $600",
+          "meets requirement: 8GB RAM",
+          "has USB-C"
+        ],
+        "potential_concerns": [
+          "storage capacity might be limited for large projects"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P014",
+        "name": "Python for Data Science Handbook",
+        "category": "Books",
+        "subcategory": "Technology",
+        "price": 44.99,
+        "brand": "TechPress",
+        "rating": 4.8,
+        "review_count": 987,
+        "description": "Comprehensive guide to Python libraries for data analysis: NumPy, Pandas, Matplotlib, and Scikit-learn.",
+        "features": [
+          "528 Pages",
+          "Code Examples",
+          "Hands-on Exercises",
+          "Full Color Print",
+          "PDF Companion",
+          "GitHub Repository"
+        ],
+        "tags": [
+          "programming",
+          "data-science",
+          "python",
+          "learning",
+          "technical",
+          "career",
+          "analytics",
+          "coding"
+        ]
+      },
+      "scores": {
+        "overall": 0.324,
+        "content_similarity": 0.1971,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "The Python for Data Science Handbook supports Alex's goal of learning data science basics. This comprehensive guide covers essential Python libraries for data analysis, including NumPy, Pandas, and Scikit-learn. The book's price is reasonable, and it aligns with Alex's interest in coding and data science.",
+        "key_matches": [
+          "matches goal: learn data science",
+          "fits budget: under $100",
+          "aligns with interest: coding and data science"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P022",
+        "name": "PixelTab Mini 8\" Tablet",
+        "category": "Electronics",
+        "subcategory": "Tablets",
+        "price": 299.99,
+        "brand": "Lumina",
+        "rating": 4.2,
+        "review_count": 2987,
+        "description": "Compact 8-inch tablet perfect for reading, streaming, and note-taking. Stylus compatible.",
+        "features": [
+          "8-inch HD Display",
+          "4GB RAM",
+          "64GB Storage",
+          "Stylus Compatible",
+          "USB-C Charging",
+          "Dual Speakers",
+          "10hr Battery"
+        ],
+        "tags": [
+          "tablet",
+          "reading",
+          "streaming",
+          "entertainment",
+          "compact",
+          "note-taking",
+          "student",
+          "casual"
+        ]
+      },
+      "scores": {
+        "overall": 0.319,
+        "content_similarity": 0.0439,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0203
+      },
+      "rationale": {
+        "rationale": "The PixelTab Mini 8\" Tablet, from a preferred brand Lumina, could be useful for reading, streaming, and note-taking, which aligns with Alex's daily activities. It features USB-C charging and a compact design, making it a good accessory for a coding setup. However, its primary use might not be for intense coding sessions.",
+        "key_matches": [
+          "from preferred brand: Lumina",
+          "fits budget: under $600",
+          "has USB-C"
+        ],
+        "potential_concerns": [
+          "might not be suitable for heavy coding or data science tasks"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "product": {
+        "id": "P040",
+        "name": "MechanicalKeyboard Pro 75%",
+        "category": "Electronics",
+        "subcategory": "Accessories",
+        "price": 149.99,
+        "brand": "KeyCraft",
+        "rating": 4.7,
+        "review_count": 6543,
+        "description": "Premium 75% hot-swappable mechanical keyboard with RGB, PBT keycaps, and wireless/Bluetooth.",
+        "features": [
+          "75% Layout",
+          "Hot-Swappable Switches",
+          "Triple Mode (Wired/BT/2.4G)",
+          "RGB Backlit",
+          "PBT Keycaps",
+          "Aluminum Frame",
+          "5000mAh Battery"
+        ],
+        "tags": [
+          "keyboard",
+          "gaming",
+          "typing",
+          "mechanical",
+          "developer",
+          "premium",
+          "wireless",
+          "customizable"
+        ]
+      },
+      "scores": {
+        "overall": 0.3059,
+        "content_similarity": 0.1664,
+        "attribute_match": 0.5833,
+        "rating_boost": 0.0382
+      },
+      "rationale": {
+        "rationale": "The MechanicalKeyboard Pro 75% from KeyCraft, a preferred brand, matches Alex's interest in mechanical keyboards. This premium keyboard offers hot-swappable switches, RGB backlighting, and wireless connectivity, enhancing the coding experience. Although it's a significant investment, it aligns with Alex's preferences and could improve productivity.",
+        "key_matches": [
+          "from preferred brand: KeyCraft",
+          "aligns with interest: mechanical keyboards",
+          "enhances coding experience"
+        ],
+        "potential_concerns": [
+          "higher price point compared to other accessories"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "product": {
+        "id": "P032",
+        "name": "RapidCharge 65W GaN Charger",
+        "category": "Electronics",
+        "subcategory": "Accessories",
+        "price": 49.99,
+        "brand": "VoltMax",
+        "rating": 4.5,
+        "review_count": 7234,
+        "description": "Compact 65W GaN charger with 3 ports (2 USB-C + 1 USB-A). Fast charges laptops and phones.",
+        "features": [
+          "65W GaN Technology",
+          "3 Ports (2C+1A)",
+          "Compact Foldable Plug",
+          "PD 3.0 / QC 3.0",
+          "Universal Voltage",
+          "Overheat Protection"
+        ],
+        "tags": [
+          "accessories",
+          "charging",
+          "travel",
+          "tech",
+          "fast-charge",
+          "compact",
+          "usb-c",
+          "laptop"
+        ]
+      },
+      "scores": {
+        "overall": 0.2442,
+        "content_similarity": 0.0154,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0322
+      },
+      "rationale": {
+        "rationale": "The RapidCharge 65W GaN Charger is a useful accessory for charging laptops and phones, especially with its compact design and fast charging capability. It fits within Alex's budget and meets the requirement for USB-C charging, making it a practical addition to a coding setup.",
+        "key_matches": [
+          "fits budget: under $100",
+          "has USB-C",
+          "practical for daily use"
+        ],
+        "potential_concerns": []
+      }
+    },
+    {
+      "rank": 7,
+      "product": {
+        "id": "P030",
+        "name": "FireFly LED Camping Lantern (2-pack)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 34.99,
+        "brand": "PeakGear",
+        "rating": 4.5,
+        "review_count": 5678,
+        "description": "2-pack of rechargeable LED camping lanterns. 500lm brightness, 4 modes, IP65 waterproof.",
+        "features": [
+          "2-Pack Included",
+          "500 Lumens Brightness",
+          "4 Light Modes",
+          "Rechargeable 4000mAh",
+          "IP65 Waterproof",
+          "Power Bank Function",
+          "Magnetic Base"
+        ],
+        "tags": [
+          "camping",
+          "outdoor",
+          "lighting",
+          "emergency",
+          "hiking",
+          "rechargeable",
+          "durable",
+          "backpacking"
+        ]
+      },
+      "scores": {
+        "overall": 0.2426,
+        "content_similarity": 0.0129,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0313
+      },
+      "rationale": {
+        "rationale": "The FireFly LED Camping Lantern, although not directly related to coding, is a useful item for outdoor activities and emergencies. It's rechargeable, waterproof, and offers good value for the price. However, it does not directly contribute to Alex's primary goals of building a coding setup or learning data science.",
+        "key_matches": [
+          "fits budget: under $100",
+          "useful for outdoor activities"
+        ],
+        "potential_concerns": [
+          "not directly relevant to coding or data science goals"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "product": {
+        "id": "P039",
+        "name": "CrystalClear 4K Monitor 27\"",
+        "category": "Electronics",
+        "subcategory": "Displays",
+        "price": 399.99,
+        "brand": "ViewTech",
+        "rating": 4.5,
+        "review_count": 2876,
+        "description": "27-inch 4K UHD IPS monitor with HDR10, 100% sRGB, USB-C power delivery, and ergonomic stand.",
+        "features": [
+          "27-inch 4K UHD (3840x2160)",
+          "IPS Panel",
+          "HDR10",
+          "100% sRGB Coverage",
+          "USB-C 90W PD",
+          "Ergonomic Stand (Swivel/Tilt/Height)",
+          "Blue Light Filter"
+        ],
+        "tags": [
+          "monitor",
+          "display",
+          "design",
+          "creative",
+          "4k",
+          "productivity",
+          "usb-c",
+          "developer"
+        ]
+      },
+      "scores": {
+        "overall": 0.242,
+        "content_similarity": 0.012,
+        "attribute_match": 0.6667,
+        "rating_boost": 0.0288
+      },
+      "rationale": {
+        "rationale": "The CrystalClear 4K Monitor 27\" supports Alex's goal of building a professional coding setup with its 4K UHD display, HDR10, and USB-C power delivery. It's suitable for coding, data science, and other productivity tasks, offering good image quality and an ergonomic design. The price is within Alex's budget, making it a viable option for enhancing the coding experience.",
+        "key_matches": [
+          "matches goal: build professional coding setup",
+          "fits budget: under $600",
+          "has USB-C"
+        ],
+        "potential_concerns": [
+          "higher price point compared to laptops or tablets"
+        ]
+      }
+    }
+  ]
+}
