@@ -22,7 +22,7 @@
   - [3. Recommendation output](#3-recommendation-output)
   - [4. Rationale for every recommendation](#4-rationale-for-every-recommendation)
 - [How recommendations are scored — NLP + weighted heuristics](#how-recommendations-are-scored--nlp--weighted-heuristics)
-  - [Score components and weights](#score-components-and-weights)
+  - [Scoring pipeline](#scoring-pipeline)
   - [Cold-start handling](#cold-start-handling)
   - [Diversity & history-aware reranking](#diversity--history-aware-reranking)
 - [Design choices — why this stack](#design-choices--why-this-stack)
@@ -31,6 +31,7 @@
 - [Output images](#output-images)
 - [Program execution with custom data](#program-execution-with-custom-data)
 - [Output images with custom data](#output-images-with-custom-data)
+- [Project execution recording](#project-execution-recording)
 
 ---
 
@@ -373,3 +374,6 @@ The file generated from the custom data is located at [`data/recs_custom_2026080
 <img width="1428" height="943" alt="Screenshot 2026-08-07 002332" src="https://github.com/user-attachments/assets/f2aaf2cd-83e3-478a-bc0e-5e3058983335" />
 <img width="1433" height="950" alt="Screenshot 2026-08-07 002343" src="https://github.com/user-attachments/assets/416ee89e-9622-448b-a8e1-0fb26055c451" />
 <img width="1422" height="785" alt="Screenshot 2026-08-07 002355" src="https://github.com/user-attachments/assets/efd4c4d2-be45-4823-a7fc-b1e4162c3beb" />
+
+## Project execution recording
+https://github.com/user-attachments/assets/d82739e9-45f8-41c0-82af-7a81d8bb5ebf
