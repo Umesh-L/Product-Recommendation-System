@@ -29,6 +29,8 @@
 - [Tradeoffs, limitations, and what I'd improve with more time](#tradeoffs-limitations-and-what-id-improve-with-more-time)
 - [Project structure](#project-structure)
 - [Output images](#output-images)
+- [Program execution with custom data](#program-execution-with-custom-data)
+- [Output images with custom data](#output-images-with-custom-data)
 
 ---
 
@@ -363,6 +365,11 @@ Product Recommendation Agent/
 <img width="1526" height="950" alt="Screenshot 2026-08-07 001529" src="https://github.com/user-attachments/assets/4d6ca307-c2f7-43ca-bb83-ae77ca8d80d5" />
 <img width="1527" height="947" alt="Screenshot 2026-08-07 001544" src="https://github.com/user-attachments/assets/195cf7d7-fbaa-44bc-aa0a-41fc62984f85" />
 <img width="1513" height="442" alt="Screenshot 2026-08-07 001620" src="https://github.com/user-attachments/assets/a31d8dcd-ef5e-4a0a-afec-701288d05f8e" />
+
+## Program execution with custom data
+The file generated from the custom data is located at [`data/recs_custom_20260807_002136.json`](file:///C:/Umesh%20Folder/Internship%20and%20job%20projects/Product%20Recommendation%20Agent/output/recs_custom_20260807_002136.json).
+
+## Output Images with Custom Data
 <img width="1428" height="943" alt="Screenshot 2026-08-07 002332" src="https://github.com/user-attachments/assets/f2aaf2cd-83e3-478a-bc0e-5e3058983335" />
 <img width="1433" height="950" alt="Screenshot 2026-08-07 002343" src="https://github.com/user-attachments/assets/416ee89e-9622-448b-a8e1-0fb26055c451" />
 <img width="1422" height="785" alt="Screenshot 2026-08-07 002355" src="https://github.com/user-attachments/assets/efd4c4d2-be45-4823-a7fc-b1e4162c3beb" />
