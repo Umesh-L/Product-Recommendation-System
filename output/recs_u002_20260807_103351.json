@@ -1,0 +1,269 @@
+{
+  "generated_at": "2026-08-07T05:03:51.063372Z",
+  "user_profile": {
+    "id": "U002",
+    "name": "Priya — Fitness & Outdoor Enthusiast",
+    "background": "Marketing professional with 3 years experience. Active gym-goer 5 days a week, enjoys weekend treks and adventure travel.",
+    "goals": "Build a compact home gym for morning workouts. Prepare gear for a Himalayan trek next quarter. Prioritize recovery and wellness.",
+    "known_skills": [
+      "Strength training",
+      "Hiking",
+      "Yoga beginner",
+      "Meal prepping"
+    ],
+    "interests": [
+      "fitness",
+      "hiking",
+      "camping",
+      "yoga",
+      "meal-prep",
+      "wellness",
+      "outdoor photography"
+    ],
+    "usage_context": "Home workouts before work, 2-3 hour treks on weekends, occasional overnight camping trips.",
+    "preferences": {
+      "preferred_categories": [
+        "Sports & Outdoors",
+        "Health",
+        "Home & Kitchen"
+      ],
+      "preferred_brands": [
+        "StrideMax",
+        "IronForge",
+        "ZenFlow",
+        "PeakGear",
+        "FitMetrics"
+      ],
+      "price_range": {
+        "min": 25,
+        "max": 400
+      },
+      "must_have_features": [
+        "Durable",
+        "Water Resistant",
+        "Portable"
+      ],
+      "avoid_tags": [
+        "luxury",
+        "high-end",
+        "decorative"
+      ]
+    },
+    "purchase_history": [
+      "P006",
+      "P017"
+    ],
+    "keywords": [
+      "home gym",
+      "hiking gear",
+      "dumbbells",
+      "backpack 50L",
+      "resistance bands",
+      "scale body"
+    ]
+  },
+  "cold_start": false,
+  "llm_rationale_enabled": true,
+  "recommendations": [
+    {
+      "rank": 1,
+      "product": {
+        "id": "P016",
+        "name": "TrailEndure Hiking Backpack 55L",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 129.99,
+        "brand": "PeakGear",
+        "rating": 4.7,
+        "review_count": 2145,
+        "description": "55-liter hiking backpack with adjustable suspension, rain cover, and multiple compartments.",
+        "features": [
+          "55L Capacity",
+          "Adjustable Suspension",
+          "Rain Cover Included",
+          "Hydration Bladder Pocket",
+          "Multiple Pockets",
+          "Hip Belt Pockets",
+          "Durable Nylon"
+        ],
+        "tags": [
+          "hiking",
+          "backpacking",
+          "camping",
+          "outdoor",
+          "adventure",
+          "trekking",
+          "travel",
+          "durable"
+        ]
+      },
+      "scores": {
+        "overall": 0.4177,
+        "content_similarity": 0.2095,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0333
+      },
+      "rationale": {
+        "rationale": "This backpack addresses Priya's goal of preparing gear for a Himalayan trek by providing a durable, water-resistant, and spacious 55L capacity. The adjustable suspension and multiple compartments are key features that match Priya's preferences for hiking and camping. Given the price range, this product offers great value with its high-quality features and brand reputation.",
+        "key_matches": [
+          "matches goal: prepare gear for Himalayan trek",
+          "fits preference: durable and water-resistant",
+          "meets usage context: hiking and camping"
+        ],
+        "potential_concerns": [
+          "may be larger than needed for daily home workouts"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "product": {
+        "id": "P030",
+        "name": "FireFly LED Camping Lantern (2-pack)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Camping",
+        "price": 34.99,
+        "brand": "PeakGear",
+        "rating": 4.5,
+        "review_count": 5678,
+        "description": "2-pack of rechargeable LED camping lanterns. 500lm brightness, 4 modes, IP65 waterproof.",
+        "features": [
+          "2-Pack Included",
+          "500 Lumens Brightness",
+          "4 Light Modes",
+          "Rechargeable 4000mAh",
+          "IP65 Waterproof",
+          "Power Bank Function",
+          "Magnetic Base"
+        ],
+        "tags": [
+          "camping",
+          "outdoor",
+          "lighting",
+          "emergency",
+          "hiking",
+          "rechargeable",
+          "durable",
+          "backpacking"
+        ]
+      },
+      "scores": {
+        "overall": 0.3767,
+        "content_similarity": 0.141,
+        "attribute_match": 0.8333,
+        "rating_boost": 0.0313
+      },
+      "rationale": {
+        "rationale": "The FireFly LED Camping Lantern is a great match for Priya's outdoor adventures, providing a reliable and waterproof light source. The 2-pack and rechargeable feature are key benefits that align with Priya's preferences for durability and practicality. This product is a good value given its price and the fact that it can also be used as a power bank.",
+        "key_matches": [
+          "matches preference: durable and water-resistant",
+          "fits usage context: camping and hiking",
+          "meets budget: under $50"
+        ],
+        "potential_concerns": [
+          "may not be directly related to home workouts"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product": {
+        "id": "P048",
+        "name": "GripMaster Resistance Bands (5 levels)",
+        "category": "Sports & Outdoors",
+        "subcategory": "Fitness",
+        "price": 24.99,
+        "brand": "IronForge",
+        "rating": 4.5,
+        "review_count": 8901,
+        "description": "5-level resistance band set with door anchor, ankle straps, and carry bag. Full-body workouts.",
+        "features": [
+          "5 Bands (X-Light to X-Heavy)",
+          "Door Anchor Included",
+          "Ankle Straps x2",
+          "Carry Bag",
+          "Workout Guide",
+          "Natural Latex",
+          "Up to 150lbs"
+        ],
+        "tags": [
+          "fitness",
+          "home-gym",
+          "resistance-training",
+          "strength",
+          "exercise",
+          "portable",
+          "physical-therapy",
+          "beginner"
+        ]
+      },
+      "scores": {
+        "overall": 0.3504,
+        "content_similarity": 0.155,
+        "attribute_match": 0.7502,
+        "rating_boost": 0.0329
+      },
+      "rationale": {
+        "rationale": "The GripMaster Resistance Bands are a great fit for Priya's goal of building a compact home gym, offering a portable and versatile workout solution. The 5-level resistance band set and included accessories are key features that match Priya's preferences for strength training and fitness. This product is a good value given its price and the fact that it can be used for full-body workouts.",
+        "key_matches": [
+          "matches goal: build compact home gym",
+          "fits preference: portable and durable",
+          "meets budget: under $50"
+        ],
+        "potential_concerns": [
+          "may not be suitable for advanced strength training"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "product": {
+        "id": "P027",
+        "name": "SmartScale Body Composition Analyzer",
+        "category": "Health",
+        "subcategory": "Monitors",
+        "price": 69.99,
+        "brand": "FitMetrics",
+        "rating": 4.5,
+        "review_count": 7821,
+        "description": "Wi-Fi/Bluetooth smart scale that measures weight, BMI, body fat, muscle mass, and more 13 metrics.",
+        "features": [
+          "13 Body Metrics",
+          "Wi-Fi + Bluetooth",
+          "Unlimited User Profiles",
+          "App Sync (iOS/Android)",
+          "Baby Mode",
+          "Athlete Mode",
+          "Sleek Glass Design"
+        ],
+        "tags": [
+          "health",
+          "fitness",
+          "weight-tracking",
+          "smart",
+          "metrics",
+          "body-composition",
+          "wellness",
+          "progress"
+        ]
+      },
+      "scores": {
+        "overall": 0.3329,
+        "content_similarity": 0.1175,
+        "attribute_match": 0.75,
+        "rating_boost": 0.0324
+      },
+      "rationale": {
+        "rationale": "The SmartScale Body Composition Analyzer is a great tool for Priya's focus on recovery and wellness, providing a comprehensive and accurate measurement of body metrics. The Wi-Fi and Bluetooth connectivity are key features that match Priya's preferences for smart and convenient tracking. This product is a good value given its price and the fact that it offers unlimited user profiles and app sync.",
+        "key_matches": [
+          "matches goal: prioritize recovery and wellness",
+          "fits preference: smart and convenient tracking",
+          "meets budget: under $100"
+        ],
+        "potential_concerns": [
+          "may require additional investment in a smart device"
+        ]
+      }
+    }
+  ]
+}

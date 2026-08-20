@@ -1,0 +1,35 @@
+%%{init: {"theme": "base", "themeVariables": {
+  "primaryColor": "#e8f4fd",
+  "primaryBorderColor": "#2f80ed",
+  "primaryTextColor": "#1c2b3a",
+  "lineColor": "#5b7a99",
+  "fontFamily": "Segoe UI, Arial, sans-serif",
+  "fontSize": "16px",
+  "clusterBkg": "#f2f7fc",
+  "clusterBorder": "#9db8d2"
+}}}%%
+flowchart TB
+
+    S(["START"]) --> CHOOSE{"Choose how to run"}
+
+    CHOOSE -->|"1. Demo"| DEMO["Run all 4 sample users"]
+    CHOOSE -->|"2. One profile"| ONE["Pick a sample user"]
+    CHOOSE -->|"3. My own profile"| CUSTOM["Answer a few questions"]
+    CHOOSE -->|"4. List"| LIST["Show available users"]
+    LIST --> D(["END"])
+
+    DEMO --> PROF["User profile"]
+    ONE --> PROF
+    CUSTOM --> PROF
+
+    PROF --> COLD{"Bought anything before?"}
+    COLD -->|"No"| SCORE["Score all 50 products"]
+    COLD -->|"Yes"| SCORE
+
+    SCORE --> HOW["Each product gets a score based on:<br/>- How well it matches your interests<br/>- Category / brand / price / features fit<br/>- Popularity (rating + reviews)"]
+    HOW --> RANK["Pick the best 8"]
+    RANK --> REASON["Write a reason for each pick"]
+
+    REASON --> SHOW["Show results with scores + reasons"]
+    SHOW --> SAVE["Save results to JSON file"]
+    SAVE --> D
