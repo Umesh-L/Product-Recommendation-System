@@ -9,6 +9,7 @@
 ## Contents
 
 - [One-line description](#one-line-description)
+- [Workflow diagram](#workflow-diagram)
 - [Tools and Technologies](#tools-and-technologies)
 - [Quick start (5 minutes)](#quick-start-5-minutes)
   - [1. Install](#1-install)
@@ -46,6 +47,26 @@
 > **Act (heuristics):** Layer in structured attribute matching (preferred categories, preferred brands, price-range fit, must-have feature hit rate, avoid-tag exclusion), plus a popularity-weighted rating bonus. Penalize products too similar to anything already in the user's purchase history for intra-list diversity.
 >
 > **Output:** Ranked list (configurable top-N, default 8), each with a score bar, a 3-component breakdown (content-similarity % | attribute-match % | rating-boost +/-%), a 2-4 sentence rationale, key-match bullet points, and flagged tradeoffs/concerns. Full results are written as machine-readable JSON to `output/`.
+
+---
+
+## Workflow diagram
+
+The full end-to-end execution flow lives in [`workflow.mmd`](workflow.mmd) — a Mermaid flowchart organized into **9 numbered stages** that match the code 1:1:
+
+| Stage | What happens | Where in code |
+|---|---|---|
+| 0 · Startup | Parse flags, read `.env`, load catalogue, build TF-IDF index | `agent.py:main`, `src/recommender.py:__init__` |
+| 1 · Mode selection | demo / single profile / custom / list / interactive menu | `agent.py:main`, `interactive_mode` |
+| 2 · Profile intake | Assemble free-text + structured preferences (+ optional history) | `build_custom_profile`, `load_sample_profiles` |
+| 3 · Routing | Cold-start check on `purchase_history` | `run_profile` |
+| 4 · Content scoring | Query vector vs product vectors → cosine similarity | `src/recommender.py:recommend` |
+| 5 · Attribute scoring | 5 transparent rules (category/brand/price/must-have/avoid) + rating bonus | `attribute_match_score`, `rating_bonus` |
+| 6 · Score fusion | Weighted composite (normal vs empty-query), diversity penalty, top-N cut | `src/recommender.py:recommend` |
+| 7 · Rationale generation | Tier A LLM (OpenAI/Groq) with Tier B guaranteed heuristic fallback | `src/llm_rationale.py` |
+| 8 · Output | Console cards + timestamped JSON per profile + demo summary | `run_profile`, `run_demo` |
+
+Color coding: green = start/end, blue = processing, amber = decision, grey = data load, purple = LLM, dark-green cylinder = file saved. To view it, paste the contents of `workflow.mmd` into [mermaid.live](https://mermaid.live), a GitHub markdown code block, or the VS Code Mermaid extension.
 
 ---
 
